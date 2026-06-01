@@ -1,0 +1,17 @@
+---
+title: "Bell & Associates"
+subtitle: "We know the box"
+title-block-banner: images/pleco.jpg
+format:
+    html:
+        toc: false
+---
+
+# Contact information
+
+::: contact-box
+|        |                   |
+|--------|-------------------|
+| Email  | email@address.com |
+| Phone  | (123) 456-7890    |
+:::
