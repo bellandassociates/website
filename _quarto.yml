@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: site
+
+website:
+  title: "<img src='/images/logo.png' style='height:40px;'>"
+  navbar:
+    background: primary
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: contact.qmd
+        text: Contact Us
+  page-navigation: true
+
+format:
+  html:
+    anchor-sections: false
+    theme:
+      - cosmo
+      - brand
+    css: styles/index.css
+    toc: true
+execute:
+  enabled: true
+
+metadata-files:
+  - _quarto.yml

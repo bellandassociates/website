@@ -1,0 +1,6 @@
+---
+title: "Project 2"
+number: 5
+image: /images/project2.jpg
+description: Project 2 description
+---

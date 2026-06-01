@@ -1,0 +1,11 @@
+/* Card properties */
+.quarto-grid-item.card {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.25s ease;
+}
+
+.quarto-grid-item.card:hover {
+    transform: translateY(-6px);
+}
