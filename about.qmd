@@ -1,0 +1,72 @@
+---
+title: "About Us"
+title-block-banner: images/pleco.jpg
+format:
+    html:
+        include-before-body: main-start.html
+        include-after-body: main-end.html
+        toc: false
+        css: styles/about.css
+---
+
+::: {.profile}
+<img src="images/person1.jpg" class="portrait inline" alt="person1">
+
+::: {.profile-text}
+**Chris Bell, CPA**, is the principal of the waste management consulting firm
+Bell & Associates. Mr. Bell has over 30 years of experience in accounting and
+cost management, with the past 27 years dedicated to consulting within the
+waste and recycling industry. Mr. Bell has completed over 600 solid waste
+management projects, focusing on the financial analysis and operational
+evaluation of waste and recycling collection systems. He has assisted numerous
+public and private entities in establishing collection rates, planning, program
+implementation, accounting/reporting, financial and performance audits,
+procurement, and facility and systems analysis. He is a licensed Certified
+Public Accountant in Oregon (license #10,451).
+
+Mr. Bell's expertise encompasses all aspects of waste management operations,
+including financial accounting, collection operations in franchised, regulated,
+and open markets, transfer stations, Material Recovery Facilities (MRFs),
+landfills, transfer trucking, contract compliance, and procurement. He has a
+strong track record in cost accounting and reporting, leading significant
+operational improvements and developing business strategies for public and
+private organizations, utilizing his many years of industry expertise.
+
+Before consulting, Mr. Bell served as Assistant Divisional Controller for
+Waste Management of Oregon. His responsibilities as controller included
+overseeing the monthly financial close, annual budgeting, balance sheet
+reconciliation, corporate reporting, operational performance analysis, audit
+preparation, and municipal/franchise reporting for three separate collection
+companies and two transfer stations. Additionally, Mr. Bell managed fixed
+assets and accounts payable for all six collection companies in Oregon and
+Southwest Washington.
+:::
+:::
+
+::: {.profile}
+<img src="images/person2.jpg" class="portrait inline" alt="person2">
+
+::: {.profile-text}
+**Lindsay Waldram, CPA**, Senior Associate, has consulting experience that
+includes serving as an interim controller for multiple solid waste companies,
+overseeing financial operations, and ensuring accurate reporting. She has
+conducted thorough reviews of detailed cost reports submitted by waste
+collection haulers, identifying discrepancies and analyzing results to
+determine reasonableness. Additionally, she has contributed to a comprehensive
+wasteshed study, analyzing waste management patterns and regional systems. Her
+work also involved conducting in-depth research on regional solid waste
+systems.
+
+Prior to consulting, Ms. Waldram served as Regional District Controller for
+Waste Connections of Washington. Her responsibilities as controller included
+the monthly financial close, annual budgeting, balance sheet reconciliation,
+regional financial reporting, and operational performance analysis. Before
+working as the Regional Controller, Ms. Waldram was the West Coast Senior
+Pricing Analyst. Her responsibilities included Washington UTC submissions,
+municipal/franchise reporting, and completing cost-of-service studies for
+company operations, including collection, transfer, disposal, and material
+recovery for Waste Connections companies in Alaska, Washington, Oregon, and
+California. Ms. Waldram is an Oregon Certified Public Accountant (Oregon
+license #14,857). 
+:::
+:::
