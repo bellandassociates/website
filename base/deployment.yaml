@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bna-website
+  namespace: bna-website
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: bna-website
+  template:
+    metadata:
+      labels:
+        app: bna-website
+    spec:
+      containers:
+        - name: nginx
+          image: nginx:stable-alpine
+          ports:
+            - containerPort: 80
+          volumeMounts:
+            - name: site
+              mountPath: /usr/share/nginx/html
+      volumes:
+        - name: site
+          persistentVolumeClaim:
+            claimName: bna-website-pvc
