@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: site
+  output-dir: ../site
 
 website:
-  title: "<img src='/images/logo.png' style='height:40px;'>"
+  title: "<img src='/src/images/logo.png' style='height:40px;'>"
   navbar:
     background: primary
     search: true

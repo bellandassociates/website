@@ -3,7 +3,6 @@ title: "Clackamas County Annual Collection System Financial / Operational
 Review and Rate Setting"
 number: 3
 image: /images/project4-clack.jpg
-description: Project 4 description
 ---
 {{< include _return-to-pf.qmd >}}
 

@@ -1,0 +1,11 @@
+---
+title: "Marion County, Oregon Solid Waste Rates Review"
+subtitle: "April 2024"
+number: 8
+image: /images/project1.jpg
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+{{<video https://www.youtube.com/embed/Q_3Iy2O7F9M?si=BPod_8fAN31kjQ6S&amp;start=4139>}}
+:::

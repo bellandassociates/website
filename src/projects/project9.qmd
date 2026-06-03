@@ -1,0 +1,10 @@
+---
+title: "Skagit County, Washington CDL Disposal Rate Review"
+number: 9
+image: /images/project1.jpg
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+[report](https://www.skagitcounty.net/PublicWorksSolidWaste/Documents/CDL%20Disposal%20Rate%20memo%20Ver2.pdf)
+:::
