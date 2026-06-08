@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-title-block-banner: images/pleco.jpg
+title-block-banner: images/banner.jpg
 listing:
     contents: projects
     type: grid

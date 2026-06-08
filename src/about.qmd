@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-title-block-banner: images/pleco.jpg
+title-block-banner: images/banner.jpg
 format:
     html:
         include-before-body: main-start.html

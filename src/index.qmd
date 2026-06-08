@@ -1,7 +1,7 @@
 ---
 title: "Bell & Associates"
 subtitle: "We know the box"
-title-block-banner: images/pleco.jpg
+title-block-banner: images/banner.jpg
 format:
     html:
         toc: false
@@ -17,7 +17,17 @@ and tribal communities. Located in Camas, Washington, our client base of public
 and private companies extends from Washington to New York and from Alaska to
 Florida. Bell & Associates has completed over 600 waste and recycling projects
 since its inception, with a primary focus on the economics of the waste and
-recycling industry. Areas of expertise include waste industry systems and
-operational analysis, rate review and rate setting, compliance services,
-alternative fuels, financial auditing, long-term planning, program analysis,
-project implementation, franchise procurement, training, and outreach.
+recycling industry.
+
+Our areas of expertise include:
+
+* waste industry systems and operational analysis
+* rate review and rate setting
+* compliance services
+* alternative fuels
+* financial auditing
+* long-term planning
+* program analysis
+* project implementation
+* franchise procurement
+* training and outreach

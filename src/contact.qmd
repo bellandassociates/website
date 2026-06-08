@@ -1,7 +1,7 @@
 ---
 title: "Bell & Associates"
 subtitle: "We know the box"
-title-block-banner: images/pleco.jpg
+title-block-banner: images/banner.jpg
 format:
     html:
         toc: false
