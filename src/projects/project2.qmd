@@ -1,0 +1,13 @@
+---
+title: "Clackamas County Annual Collection System Financial / Operational
+Review and Rate Setting"
+number: 2
+image: /images/project4-clack.jpg
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+![](/images/project4-clack.jpg){.left-img}
+
+Bell & Associates has performed the annual solid waste review for this county since 2001. The financial and operational examination consists of 11 separate hauling companies serving the county’s 46,300 residential and 2,100 commercial customers in the unincorporated urban and rural areas. The county covers 1,879 square miles and is segregated into four distinct regions: the densely populated Urban Region near the I-205 corridor, the Rural Region just outside the Portland Metro Urban Growth Boundary, the Distant Rural Region adjacent to the Mount Hood National Forest, and the Mountain Region on Mount Hood. Operating results for each region are analyzed, adjusted, aggregated, and then projected for the current year. 
+:::

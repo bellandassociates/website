@@ -1,15 +1,12 @@
 ---
-title: "Humboldt County Regional Cost and Operational Assessment" 
-number: 4
-image: /images/project3-humb.jpg
+title: "City of Albuquerque Annual Cost of Service Study and Rate Setting"
+number: 3
+image: /images/project5-albuq.png
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-![](/images/project3-humb.jpg){.left-img}
+![](/images/project5-albuq.png){.left-img}
 
-The cities and Humboldt County contracted with Bell & Associates to assess Recology’s waste collection operations, evaluate the cost of collection services for each jurisdiction, establish cost of service collection rates, assist with updating the franchise contracts and updating the methods for annual rate adjustments, and determine the cost and rate impacts of implementing SB 1383, California’s organic collection law.
+Bell & Associates has assisted the City of Albuquerque’s Solid Waste Management Department with calculating the cost of service rates for the City’s 180,000 residential and 11,000 commercial customers, transfer facilities, Clean City programs, and the Cerro Colorado Landfill since 2009. The process coincides with the annual budget review and provides the Solid Waste Department with the means to present program changes and rate adjustments for the upcoming fiscal year to the City Council. Over the last seven years, Mr. Bell has completed the financial review and cost modeling of the current system and projected future costs of collection, disposal rates, and service fees for the diverse services provided by the City. 
 :::
-
-Image by Bdonjc - Own work, CC BY-SA 4.0,
-https://commons.wikimedia.org/w/index.php?curid=112642181

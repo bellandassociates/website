@@ -1,13 +1,14 @@
 ---
-title: "Clackamas County Annual Collection System Financial / Operational
-Review and Rate Setting"
-number: 3
-image: /images/project4-clack.jpg
+title: "Washington State Utility and Transportation Commission Solid Waste Rate
+Setting Methodology Rate Model Review"
+number: 4
+image: /images/project6-wsutc.jpg
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-![](/images/project4-clack.jpg){.left-img}
+![](/images/project6-wsutc.jpg){.left-img}
 
-Bell & Associates has performed the annual solid waste review for this county since 2001. The financial and operational examination consists of 11 separate hauling companies serving the county’s 46,300 residential and 2,100 commercial customers in the unincorporated urban and rural areas. The county covers 1,879 square miles and is segregated into four distinct regions: the densely populated Urban Region near the I-205 corridor, the Rural Region just outside the Portland Metro Urban Growth Boundary, the Distant Rural Region adjacent to the Mount Hood National Forest, and the Mountain Region on Mount Hood. Operating results for each region are analyzed, adjusted, aggregated, and then projected for the current year. 
+Bell & Associates, in a joint venture with Sound Resource Economics, assisted the Washington State Utility and Transportation Commission (WUTC) with an examination into the validity of the Lurito-Gallagher (L-G) rate model and methodology for determining the revenue requirements for the solid waste collection companies regulated by the WUTC.  
+The model is considered by many to be a black box because the regression formulas utilize data that is not clearly documented. The current model has been in use for over 25 years. The WUTC contracted our team to reexamine this statistical relationship to validate the current use of the L-G model, modify its use, or replace the model with a more appropriate methodology. The analysis of the rate model uncovered calculation errors within the L-G model that impacted returns. Our study recommended a change to a more transparent method for determining the revenue requirements for the State’s regulated waste haulers.
 :::
