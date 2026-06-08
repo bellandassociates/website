@@ -7,5 +7,5 @@ image: /images/project1.jpg
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-{{<video https://www.youtube.com/embed/Q_3Iy2O7F9M?si=BPod_8fAN31kjQ6S&amp;start=4139>}}
+[Meeting agenda](https://www.co.marion.or.us/BOC/Documents/2015BoardCalendars/PW_Pub%20Hear_Solid%20Waste%20Collection%20Rates.pdf)
 :::
