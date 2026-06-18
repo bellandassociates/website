@@ -3,6 +3,7 @@ title: "Marion County, Oregon Solid Waste Rates Review"
 subtitle: "April 2024"
 number: 6
 image: /images/marion-or.jpg
+image-alt: "Image of Marion County, Oregon"
 ---
 {{< include _return-to-pf.qmd >}}
 

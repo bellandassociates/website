@@ -1,15 +1,16 @@
 ---
 title: "Humboldt County Regional Cost and Operational Assessment" 
 number: 1
-image: /images/project3-humb.jpg
+image: /images/humboldt.jpg
+image-alt: "Image of Humboldt County, Oregon"
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-![](/images/project3-humb.jpg){.left-img}
+![](/images/humboldt.jpg){.left-img}
 
 The cities and Humboldt County contracted with Bell & Associates to assess Recology’s waste collection operations, evaluate the cost of collection services for each jurisdiction, establish cost of service collection rates, assist with updating the franchise contracts and updating the methods for annual rate adjustments, and determine the cost and rate impacts of implementing SB 1383, California’s organic collection law.
-:::
 
-Image by Bdonjc - Own work, CC BY-SA 4.0,
-https://commons.wikimedia.org/w/index.php?curid=112642181
+Thumbnail image attribution:
+[Bdonjc - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112642181)
+:::
