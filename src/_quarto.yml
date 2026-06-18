@@ -23,6 +23,7 @@ website:
 
 format:
   html:
+    title-block-banner: false
     anchor-sections: false
     search: false
     theme:
