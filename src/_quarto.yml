@@ -2,11 +2,14 @@ project:
   type: website
   output-dir: ../site
 
+lang: en
+
 website:
-  title: "<img src='/images/logo.png' alt='Company Logo' style='height:40px;'>"
+  title: "Bell & Associates"
+  search: false
   navbar:
+    title: "<img src='/images/logo.png' alt='Company Logo' style='height:40px;'>"
     background: primary
-    search: false
     right:
       - href: index.qmd
         text: Home
@@ -21,6 +24,7 @@ website:
 format:
   html:
     anchor-sections: false
+    search: false
     theme:
       - cosmo
       - brand
