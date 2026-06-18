@@ -2,7 +2,7 @@
 title: "Wilsonville Oregon Solid Waste Rates Review"
 subtitle: "December 2025"
 number: 9
-image: /images/project1.jpg
+image: /images/wilsonville-or.jpg
 ---
 {{< include _return-to-pf.qmd >}}
 

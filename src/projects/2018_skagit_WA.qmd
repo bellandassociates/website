@@ -1,7 +1,8 @@
 ---
 title: "Skagit County, Washington CDL Disposal Rate Review"
+subtitle: "August 2018"
 number: 5
-image: /images/project1.jpg
+image: /images/skagit-wa.jpg
 ---
 {{< include _return-to-pf.qmd >}}
 

@@ -2,7 +2,7 @@
 title: "City of Tigard Oregon Solid Waste Rates Review"
 subtitle: "June 2024"
 number: 7
-image: /images/project2.jpg
+image: /images/tigard-or.jpg
 ---
 {{< include _return-to-pf.qmd >}}
 

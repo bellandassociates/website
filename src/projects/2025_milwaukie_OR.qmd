@@ -2,7 +2,7 @@
 title: "City of Milwaukie Oregon Solid Waste Rates Review"
 subtitle: "May 2025"
 number: 8
-image: /images/project2.jpg
+image: /images/milwaukie-or.jpg
 ---
 {{< include _return-to-pf.qmd >}}
 
