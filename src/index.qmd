@@ -7,8 +7,6 @@ format:
         toc: false
 ---
 
-# NOT A COMPLETE SITE; FOR PREVIEW ONLY
-
 Bell & Associates, Inc. is a consulting firm specializing in the financial and
 operational analysis of integrated solid waste management. Founded in 2003 by a
 licensed Certified Public Accountant, our primary purpose is to serve the
