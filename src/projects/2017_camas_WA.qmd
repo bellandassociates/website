@@ -1,0 +1,13 @@
+---
+title: "City of Camas, Washington Plan for Growth/Collection Reroute Plan"
+subtitle: "2017"
+number: 11
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

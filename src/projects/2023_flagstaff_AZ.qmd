@@ -1,0 +1,13 @@
+---
+title: "City of Flagstaff, Arizona MRF Feasibility Study / SW Planning"
+subtitle: "2019-2023"
+number: 21
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

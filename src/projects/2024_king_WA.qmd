@@ -1,0 +1,17 @@
+---
+title: "King County, Washington Waste by Rail Cost Analysis / Disposal Study"
+subtitle: "2018, 2024"
+number: 26
+image: /images/albuquerque.jpg
+image-alt: "Image of Albuquerque"
+categories: ["Integrated Solid Waste Planning"]
+---
+{{< include _return-to-pf.qmd >}}
+
+:::
+TODO: Project info
+
+Thumbnail image attribution:
+[By Quintin Soloviev - Own work, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=186809197)
+:::
+

@@ -1,0 +1,13 @@
+---
+title: "Deschutes County, Oregon Transfer System Cost/Operational Analysis"
+subtitle: "2022-2023"
+number: 20
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

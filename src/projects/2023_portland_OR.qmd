@@ -1,0 +1,13 @@
+---
+title: "Portland Metropolitan Service Agency Transfer Station Cost of Service Study"
+subtitle: "2017, 2023"
+number: 22
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

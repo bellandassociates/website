@@ -1,0 +1,13 @@
+---
+title: "City of Hoboken, New Jersey Zero Waste Management Plan"
+subtitle: "2022-2024"
+number: 25
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

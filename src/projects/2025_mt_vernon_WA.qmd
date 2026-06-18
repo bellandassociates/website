@@ -1,0 +1,13 @@
+---
+title: "City of Mount Vernon, Washington Collection Rate Study"
+subtitle: "2019, 2021, 2025"
+number: 34
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

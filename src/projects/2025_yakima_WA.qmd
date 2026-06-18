@@ -1,0 +1,13 @@
+---
+title: "City of Yakima, Washington Collection Rate Setting"
+subtitle: "2013-2025"
+number: 37
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

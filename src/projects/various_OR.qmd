@@ -1,0 +1,13 @@
+---
+title: "11 Oregon jurisdiction Financial / Operational Reviews of Franchised Solid Waste & Recycling Collection Operations"
+subtitle: "-"
+number: 1
+image: /images/skagit-wa.jpg
+image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+TODO: Contents
+:::

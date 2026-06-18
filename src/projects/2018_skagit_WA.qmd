@@ -1,9 +1,10 @@
 ---
 title: "Skagit County, Washington CDL Disposal Rate Review"
 subtitle: "August 2018"
-number: 5
+number: 14
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
+categories: ["Transfer/MRF/Transport"]
 ---
 {{< include _return-to-pf.qmd >}}
 
