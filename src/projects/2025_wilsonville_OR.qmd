@@ -4,6 +4,7 @@ subtitle: "December 2025"
 number: 36
 image: /images/wilsonville-or.jpg
 image-alt: "Image of Wilsonville, Oregon"
+categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
