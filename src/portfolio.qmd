@@ -7,6 +7,7 @@ listing:
     grid-columns: 3
     fields: [image, title]
     sort: number desc
+    categories: true
 format:
     html:
         css: styles/portfolio.css
