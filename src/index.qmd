@@ -30,7 +30,7 @@ Our areas of expertise include:
 * franchise procurement
 * training and outreach
 
-# Web Accessibility Statement
+### Web Accessibility Statement
 
 Bell & Associates, Inc. tries to deliver a broadly accessible user experience.
 There may be features that are not fully accessible due to errors or oversight.
@@ -38,4 +38,6 @@ Our ongoing efforts to improve the website includes updating the features to
 allow better accessibility.
 
 If you encounter accessibility issues while using our site, please inform us
-via the [github issues page for the website](https://github.com/bellandassociates/website/issues).
+via the [github issues page for the website](https://github.com/bellandassociates/website/issues)
+(preferred method). Alternatively, you can reach the site admin by email:
+[bna_support@proton.me](mailto:bna_support@proton.me).
