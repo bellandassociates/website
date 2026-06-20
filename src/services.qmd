@@ -1,0 +1,22 @@
+---
+title: "Services"
+title-block-banner: images/banner.jpg
+format:
+    html:
+        include-before-body: main-start.html
+        include-after-body: main-end.html
+        toc: false
+        css: styles/about.css
+---
+
+# Rate Setting / Cost of Service Review / Financial & Operational Analysis
+
+# Integrated Solid Waste Planning
+
+# Transfer / MRF / Transport
+
+# Landfill / Disposal
+
+# Service Procurement
+
+# Expert Witness
