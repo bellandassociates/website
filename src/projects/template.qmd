@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: 2000
+subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
