@@ -4,7 +4,7 @@ subtitle: "-"
 number: 15
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Transfer/MRF/Transport"]
+categories: ["Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
 

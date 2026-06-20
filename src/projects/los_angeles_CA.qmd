@@ -4,7 +4,7 @@ subtitle: "-"
 number: 5
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Transfer/MRF/Transport"]
+categories: ["Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
 

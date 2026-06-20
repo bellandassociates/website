@@ -4,7 +4,7 @@ subtitle: "2016"
 number: 10
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Transfer/MRF/Transport"]
+categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 

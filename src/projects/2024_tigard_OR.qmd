@@ -1,6 +1,6 @@
 ---
 title: "City of Tigard Oregon Solid Waste Rates Review"
-subtitle: "June 2024"
+subtitle: "2022 - 2024"
 number: 29
 image: /images/tigard-or.jpg
 image-alt: "Image of Tigard, Oregon"
@@ -9,6 +9,21 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2025
+
+[Report](https://public.destinyhosted.com/tigardocs/2025/CCBSNS/20250624_2514/5848_Presentation_2.pdf)
+
+# 2024
+
 {{<video https://www.youtube.com/embed/5J28O_YmN8A?si=SifTy635R3aBbZb6&amp;start=10497>}}
 [Report](https://public.destinyhosted.com/tigardocs/2024/CCBSNS/20240611_2357/5547_Tigard_Rate_Review_Report_May_2024_FINAL.pdf)
+
+# 2023
+
+[Report](https://public.destinyhosted.com/tigardocs/2023/CCBSNS/20230627_2230/5243_Presentation.pdf)
+
+# 2022
+[Report](https://public.destinyhosted.com/tigardocs/2022/CCWKSHOP/20220621_2075/4965_SW_Presentation.pdf)
+
 :::

@@ -4,7 +4,7 @@ subtitle: "2009-2025"
 number: 31
 image: /images/albuquerque.jpg
 image-alt: "Image of Albuquerque"
-categories: ["Integrated Solid Waste Planning"]
+categories: ["Rate Setting", "Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
 

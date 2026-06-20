@@ -8,5 +8,11 @@ image-alt: "Image of Milwaukie, Oregon"
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2025
+You can see Chris Bell, CPA presenting his report on solid waste rate review
+for the city of Milwaukie, Oregon at the city commission meeting.
+
 {{<video https://www.youtube.com/embed/Q_3Iy2O7F9M?si=BPod_8fAN31kjQ6S&amp;start=4139>}}
+
 :::

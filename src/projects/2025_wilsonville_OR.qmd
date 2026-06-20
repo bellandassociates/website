@@ -9,7 +9,36 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2025
+
+You can see Chris Bell, CPA presenting his report on solid waste rate review for
+Wilsonville, Oregon at the city commission meeting.
+
 {{< video https://www.youtube.com/embed/ZMF4cfzRhtc?si=XbPb_FSD5s2832HA >}}
-[meeting presentation file](https://mccmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-e73d1dfa0efe4bd683a3515931433fe7/ITEM-Attachment-001-44205fab0cf144f4a817dab559056b41.pdf)
+
+You can also review the [presentation file](https://mccmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-e73d1dfa0efe4bd683a3515931433fe7/ITEM-Attachment-001-44205fab0cf144f4a817dab559056b41.pdf)
+used for this meeting.
+
+# 2024
+
+[Report for 2024 Waste Rate Review](https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/residents/page/85181/2023wilsonville_solid_waste_rate_report_amended_01_2024_res_no_3124.pdf)
+
+# 2023
+
+[Report for 2023 Waste Rate Review](https://mcmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-7f0cb498aba4a539707bdf39528d81b/ITEM-Attachment-001-d17f603367434a15bb59967367990962.pdf)
+
+# 2022
+
+[Report for 2022 Waste Rate Review](https://mcmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-fdca0020cf1114a08860632ebbf22469c/ITEM-Attachment-002-b4dbc77e322f4dc7b59e2015250e14ce.pdf)
+
+# 2021
+
+[Report for 2021 Waste Rate Review](https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/residents/page/85181/wilsonville_solid_waste_rate_report_oct._2021.pdf)
+can be found.
+
+# 2019
+[Report for 2019 Waste Rate Review](https://www.wilsonvilleoregon.gov/sites/default/files/fileattachments/residents/page/85181/wilsonville_solid_waste_rate_report_amended_dec._2019.pdf)
+
 :::
 
