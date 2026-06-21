@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "City of Ashland, Oregon Rate Setting"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
 image-alt: ""
-categories: ["MRF"]
+categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 

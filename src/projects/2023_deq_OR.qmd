@@ -4,7 +4,7 @@ subtitle: "2020-2023"
 number: 19
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Transfer/MRF/Transport"]
+categories: ["Rate Setting", "Transfer/MRF/Transport"]
 ---
 {{< include _return-to-pf.qmd >}}
 

@@ -4,7 +4,7 @@ subtitle: "2008"
 number: 99999
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
-categories: ["Integrated Solid Waste Planning"]
+categories: ["Integrated Solid Waste Planning", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
 

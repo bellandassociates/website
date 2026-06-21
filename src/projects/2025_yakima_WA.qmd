@@ -4,7 +4,8 @@ subtitle: "2013-2025"
 number: 37
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Rate Setting"]
+categories: ["Rate Setting", "Integrated Solid Waste Planning",
+"Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
 

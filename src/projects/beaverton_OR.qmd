@@ -3,7 +3,7 @@ title: "City of Beaverton "
 number: 99999
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
-categories: ["MRF"]
+categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
