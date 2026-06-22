@@ -2,12 +2,14 @@
 title: "City of Salem, Oregon Waste Collection Rate Review"
 subtitle: "2003-2025"
 number: 35
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/salem_OR.jpg
+image-alt: "Image of Salem, Oregon"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By M.O. Stevens - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4236863)
 :::

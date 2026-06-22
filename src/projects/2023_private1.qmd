@@ -2,12 +2,15 @@
 title: "Private Client in Seattle, Washington Regional Recycling Processing Cost Study"
 subtitle: "2023"
 number: 23
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/seattle_WA.jpg
+image-alt: "Image of Seattle, Washington"
 categories: ["Transfer/MRF/Transport"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Cmglee and Spicypepper999, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=187451298)
+
 :::

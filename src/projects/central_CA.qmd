@@ -2,12 +2,14 @@
 title: "Central California Solid Waste Wasteshed Study"
 subtitle: "-"
 number: 8
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/central_CA.jpg
+image-alt: "Image of Central California"
 categories: ["Transfer/MRF/Transport"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By BrendelSignature at English Wikipedia](CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=9737007)
 :::

@@ -1,7 +1,7 @@
 ---
 title: "Kodiak Island Borough, Alaska Solid Waste Management Plan"
 subtitle: "2008"
-number: 99999
+number: 0
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
 categories: ["Integrated Solid Waste Planning", "Service Procurement"]

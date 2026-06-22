@@ -1,7 +1,7 @@
 ---
 title: "Kitsap County, Washington Waste Planning"
 subtitle: "2000"
-number: 99999
+number: 0
 image: /images/clackamas.jpg
 image-alt: ""
 categories: ["Integrated Solid Waste Planning"]

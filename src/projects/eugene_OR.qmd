@@ -1,7 +1,7 @@
 ---
 title: "Eugene, Oregon Rate Setting"
 subtitle: "2000"
-number: 99999
+number: 0
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
 categories: ["Rate Setting"]

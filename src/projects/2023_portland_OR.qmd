@@ -2,8 +2,8 @@
 title: "Portland Metropolitan Area, Oregon"
 subtitle: "2008, 2012, 2017, 2023"
 number: 22
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/portland_OR.jpg
+image-alt: "Image of Portland, Oregon"
 categories: ["Transfer/MRF/Transport", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -21,5 +21,7 @@ categories: ["Transfer/MRF/Transport", "Service Procurement"]
 # 2008 Transfer Station Repair & Replacement Study
 
 TODO: Contents
+
+[By Cacophony - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=2335737)
 
 :::

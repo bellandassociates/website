@@ -1,7 +1,7 @@
 ---
 title: "Chelan County, Washington"
 subtitle: "2000"
-number: 99999
+number: 0
 image: /images/clackamas.jpg
 image-alt: ""
 categories: ["Transfer"]

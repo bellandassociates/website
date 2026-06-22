@@ -1,8 +1,8 @@
 ---
 title: "City of Yakima, Washington"
 number: 37
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/yakima_WA.jpg
+image-alt: "Image of Yakima, Washington"
 categories: ["Rate Setting", "Integrated Solid Waste Planning",
 "Landfill/Disposal"]
 ---
@@ -28,4 +28,6 @@ stream as well as the surrounding region.
 # 2009 Transfer Feasibility / Cost of Service Study
 
 TODO: Contents
+
+[By Quintin Soloviev - Own work, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=192527773)
 :::

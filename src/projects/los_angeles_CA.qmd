@@ -2,8 +2,8 @@
 title: "Los Angeles, California"
 subtitle: "-"
 number: 5
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/los_angeles_CA.jpg
+image-alt: "Image of Los Angeles, California"
 categories: ["Rate Setting", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,6 @@ categories: ["Rate Setting", "Service Procurement"]
 # Commercial Franchise Rate Method / Procurement
 
 TODO: Contents
+
+(By Alek Leckszas - Own work, CC BY-SA 4.0)[https://commons.wikimedia.org/w/index.php?curid=76431252]
 :::

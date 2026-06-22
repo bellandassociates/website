@@ -1,8 +1,8 @@
 ---
 title: "City of Gresham, Oregon"
 number: 32
-image: /images/skagit-wa.jpg
-image-alt: "Image of Skagit County, Washington"
+image: /images/gresham_OR.jpg
+image-alt: "Image of Gresham, Oregon"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -12,4 +12,6 @@ categories: ["Rate Setting"]
 # Solid Waste Collection and Program Analysis / Rate Setting
 
 TODO: Contents
+
+[By SkatePark in Main City Park, Gresham, Oregon.jpg - Wikimedia Commons, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=70225826)
 :::

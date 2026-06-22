@@ -1,7 +1,7 @@
 ---
 title: "Snohomish County, Washington MRF"
 subtitle: "2000"
-number: 99999
+number: 0
 image: /images/clackamas.jpg
 image-alt: ""
 categories: ["MRF"]
