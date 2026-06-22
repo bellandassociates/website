@@ -2,7 +2,7 @@
 title: "Sammamish County, Washington Solid Waste Collection Contract Compliance Audit"
 subtitle: "-"
 number: 2
-image: /images/sammamish-WA.jpg
+image: /images/sammamish_WA.jpg
 image-alt: "Image of Sammamish County, Washington"
 categories: ["Transfer/MRF/Transport"]
 ---
