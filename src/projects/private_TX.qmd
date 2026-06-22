@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Private Client in El Paso, Texas"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Clark County, Washington"
-subtitle: "2019-2021
+subtitle: "2019-2021"
 number: 7
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
