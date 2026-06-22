@@ -1,0 +1,18 @@
+---
+title: "Silver City, New Mexico"
+subtitle: "2000"
+number: 99999
+image: /images/clackamas.jpg
+image-alt: ""
+categories: []
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+
+# Solid Waste System Analysis
+
+# Program Implementation
+
+TODO: Contents
+:::
