@@ -1,5 +1,5 @@
 ---
-title: "Tillamook County, Oregon Waste Planning"
+title: "Tillamook County, Oregon"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
@@ -9,5 +9,8 @@ categories: ["Integrated Solid Waste Planning"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2012 Transfer Station Program Analysis
+
 TODO: Contents
 :::

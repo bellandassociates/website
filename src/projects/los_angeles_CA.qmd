@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles, California Commercial Franchise Procurement"
+title: "Los Angeles, California"
 subtitle: "-"
 number: 5
 image: /images/skagit-wa.jpg
@@ -9,5 +9,8 @@ categories: ["Rate Setting", "Service Procurement"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# Commercial Franchise Rate Method / Procurement
+
 TODO: Contents
 :::

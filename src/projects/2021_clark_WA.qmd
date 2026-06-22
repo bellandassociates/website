@@ -1,0 +1,30 @@
+---
+title: "Clark County, Washington"
+subtitle: "2019-2021
+number: 7
+image: /images/clackamas.jpg
+image-alt: "Image of Clackamas County, Oregon"
+categories: ["MRF"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+
+# Transfer System and Recycling Processing Cost of Service Analysis
+
+Bell & Associates assisted Clark County with calculating to cost of service for
+the County’s three transfer stations and regional material recovery facility as
+part of a long-term system study. The transfer system is operated by Columbia
+Resource Company (Waste Connections) under the regulatory oversight of the
+County. The accounting for three transfer stations and one MRF was under one
+profit center, which significantly increased the complexity of the project. In
+2019, the system disposed of over 435,000 tons of solid waste and processed
+over 60,000 tons of recyclable materials.
+
+Reference: Mike Davis
+
+# 2021 MRF Cost of Service Study
+
+# 2015 Material Recovery Facility Revenue Analysis
+
+:::

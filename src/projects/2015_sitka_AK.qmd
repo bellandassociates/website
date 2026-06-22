@@ -1,13 +1,16 @@
 ---
-title: "City of Richland, Washington Landfill"
+title: "City/Borough of Sitka, Alaska"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
 image-alt: ""
-categories: ["Landfill/Disposal", "Service Procurement"]
+categories: ["Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2015 Transfer Station & Disposal Service Procurement
+
 TODO: Contents
 :::

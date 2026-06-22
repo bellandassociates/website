@@ -1,13 +1,27 @@
 ---
-title: "Skagit County, Washington CDL Disposal Rate Review"
+title: "Skagit County, Washington"
 subtitle: "August 2018"
 number: 14
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
-categories: ["Transfer/MRF/Transport"]
+categories: ["Transfer/MRF/Transport", "Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2018 CDL Disposal Rate Review
+
 [report](https://www.skagitcounty.net/PublicWorksSolidWaste/Documents/CDL%20Disposal%20Rate%20memo%20Ver2.pdf)
+
+# 2007 Transfer Station Feasibility / Financial Evaluation
+
+Skagit County operates a full-service transfer station / HHW facility and two
+remote satellite facilities serving over 120,000 residents. Bell & Associates
+developed a five-year rate structure to cover the cost of service for transfer
+operations, capital replacement, long-term liability, and the County’s
+diversion programs.
+
+Reference: Margo Gillaspy, Skagit County
+
 :::

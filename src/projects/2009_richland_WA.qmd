@@ -1,5 +1,5 @@
 ---
-title: "City of Laramie, Wyoming"
+title: "City of Richland"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
@@ -10,9 +10,9 @@ categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 
 ::: {.article}
 
-# Solid Waste Rate Setting
+# Solid Waste System Analysis and Rate Setting
 
-# Recycling Service Procurement
+# 2009 Compost Facility Cost of Service
 
 TODO: Contents
 :::

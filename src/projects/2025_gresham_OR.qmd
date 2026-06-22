@@ -1,6 +1,5 @@
 ---
-title: "Cities of Gresham, Beaverton, and Hillsboro, Oregon Annual Rate Review / Rate Setting"
-subtitle: "2004-2025"
+title: "City of Gresham, Oregon"
 number: 32
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
@@ -9,5 +8,8 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# Solid Waste Collection and Program Analysis / Rate Setting
+
 TODO: Contents
 :::

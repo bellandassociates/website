@@ -1,6 +1,5 @@
 ---
-title: "City of Yakima, Washington Collection Rate Setting"
-subtitle: "2013-2025"
+title: "City of Yakima, Washington"
 number: 37
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
@@ -10,5 +9,23 @@ categories: ["Rate Setting", "Integrated Solid Waste Planning",
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2013-2025 Collection Rate Setting
+
+# 2017 Material Recovery Feasibility Study
+
+Bell & Associates has been assisted the City of Yakima since 2013 with rate
+consulting services for the City’s waste collection operation as well as
+perspective residential recycling programs. Mr. Bell recommended a cost of
+service rate structure to maintain city services and provide adequate fund
+reserves and capital replacement.
+
+In conjunction with Green Solutions, Bell & Associates assisted the City with a
+Material Recovery Facility feasibility study to determine the expected facility
+size, build and operational costs, and material throughput for the City waste
+stream as well as the surrounding region.
+
+# 2009 Transfer Feasibility / Cost of Service Study
+
 TODO: Contents
 :::

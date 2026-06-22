@@ -1,0 +1,25 @@
+---
+title: "Chelan County, Washington"
+subtitle: "2000"
+number: 99999
+image: /images/clackamas.jpg
+image-alt: ""
+categories: ["Transfer"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+
+# 2016 Transfer Station Operations and Rates Study
+
+Bell & Associates was contracted by Chelan County to evaluate current waste
+management operations and to calculate the existing cost of service. Based on
+the analysis, changes to the current rate structure and operations were
+proposed. The project also entailed an operations efficiency assessment of the
+County’s two transfer facilities and the use of County-owned equipment at these
+sites. Recommendations were provided to reduce costs, increase revenues and
+improve operating efficiencies at the transfer stations.
+
+Reference: Brenda Blanchfield
+
+:::

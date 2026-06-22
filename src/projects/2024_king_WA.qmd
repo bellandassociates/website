@@ -1,5 +1,5 @@
 ---
-title: "King County, Washington Waste by Rail Cost Analysis / Disposal Study"
+title: "King County, Washington"
 subtitle: "2018, 2024"
 number: 26
 image: /images/albuquerque.jpg
@@ -9,6 +9,11 @@ categories: ["Transfer/MRF/Transport"]
 {{< include _return-to-pf.qmd >}}
 
 :::
+
+# 2024 Waste by Rail Cost Analysis / Disposal Study
+
+# 2018 WTE / Waste Export by Rail Feasibility Study
+
 TODO: Project info
 
 Thumbnail image attribution:

@@ -1,5 +1,5 @@
 ---
-title: "Hillsboro County, Oregon Rate Setting"
+title: "Hillsboro County, Oregon"
 subtitle: "2000"
 number: 99999
 image: /images/clackamas.jpg
@@ -9,5 +9,8 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# Solid Waste Collection and Program Analysis / Rate Setting
+
 TODO: Contents
 :::

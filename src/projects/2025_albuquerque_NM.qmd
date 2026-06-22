@@ -11,7 +11,7 @@ categories: ["Rate Setting", "Integrated Solid Waste Planning"]
 ::: {.article}
 ![](/images/albuquerque.jpg){.left-img}
 
-# Annual Cost of Service Study and Rate Setting, 2009-2025
+# 2009-2025 Annual Cost of Service Study and Rate Setting
 
 Bell & Associates has assisted the City of Albuquerque’s Solid Waste Management
 Department with calculating the cost of service rates for the City’s 180,000
@@ -24,7 +24,11 @@ financial review and cost modeling of the current system and projected future
 costs of collection, disposal rates, and service fees for the diverse services
 provided by the City. 
 
-# Solid Waste Management Plan Update, 2016
+Reference: Jill Holbert
+
+# 2017 Transfer Station 25-year Cost of Service Analysis
+
+# 2016 Solid Waste Management Plan Update
 
 TODO: Contents
 
