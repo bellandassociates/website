@@ -2,12 +2,14 @@
 title: "City/Borough of Juneau, Alaska Waste Planning"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/juneau_AK.jpg
+image-alt: "Image of Juneau, Alaska"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Gillfoto - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=176026954)
 :::

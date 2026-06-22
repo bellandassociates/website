@@ -2,12 +2,14 @@
 title: "City of Lewiston, Idaho Service Procurement"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/lewiston_ID.png
+image-alt: "Image of Lewiston, Idaho"
 categories: ["Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Spicypepper999 - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=132394077)
 :::

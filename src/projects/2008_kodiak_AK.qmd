@@ -2,12 +2,14 @@
 title: "Kodiak Island Borough, Alaska Solid Waste Management Plan"
 subtitle: "2008"
 number: 0
-image: /images/clackamas.jpg
-image-alt: "Image of Clackamas County, Oregon"
+image: /images/kodiak_AK.jpg
+image-alt: "Image of Kodiak, Alaska"
 categories: ["Integrated Solid Waste Planning", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 [Solid Waste Management Plan](https://www.kodiakak.us/DocumentCenter/View/12647/Exhibit-A-August-2008-Kodiak-Island-Borough-Final-Solid-Waste-Management-Plan-Completed-by-Bell--Associates-)
+
+[By James Brooks, CC BY 2.0](https://commons.wikimedia.org/w/index.php?curid=112970641)
 :::

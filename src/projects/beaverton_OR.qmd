@@ -1,12 +1,14 @@
 ---
-title: "City of Beaverton "
+title: "City of Beaverton"
 number: 0
-image: /images/clackamas.jpg
-image-alt: "Image of Clackamas County, Oregon"
+image: /images/beaverton_OR.jpg
+image-alt: "Image of Beaverton, Oregon"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Ian Poellet - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=43210574)
 :::

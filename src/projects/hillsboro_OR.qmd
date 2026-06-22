@@ -1,9 +1,9 @@
 ---
-title: "Hillsboro County, Oregon"
+title: "City of Hillsboro, Oregon"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: "Image of Clackamas County, Oregon"
+image: /images/hilsboro_OR.jpg
+image-alt: "Image of Hilsboro, Oregon"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,5 @@ categories: ["Rate Setting"]
 # Solid Waste Collection and Program Analysis / Rate Setting
 
 TODO: Contents
+
 :::

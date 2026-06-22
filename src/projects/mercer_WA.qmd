@@ -2,12 +2,14 @@
 title: "Mercer Island, Washington Rate Setting"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/mercer_WA.jpg
+image-alt: "Image of Mercer Island, Washington"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Dllu - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=42654839)
 :::

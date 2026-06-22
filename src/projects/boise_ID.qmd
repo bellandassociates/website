@@ -2,8 +2,8 @@
 title: "City of Boise, Idaho"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/boise_ada_ID.jpg
+image-alt: "Image of Boise, Idaho"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,5 @@ categories: ["Integrated Solid Waste Planning"]
 # Solid Waste Management Plan / Procurement Analysis
 
 TODO: Contents
+[By MATTHEW HARRISON SMITH - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=29928444)
 :::

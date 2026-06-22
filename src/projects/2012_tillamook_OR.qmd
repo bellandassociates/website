@@ -2,8 +2,8 @@
 title: "Tillamook County, Oregon"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/tillamook_OR.jpg
+image-alt: "Image of Tillamook, Oregon"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,7 @@ categories: ["Integrated Solid Waste Planning"]
 # 2012 Transfer Station Program Analysis
 
 TODO: Contents
+
+[By Gary Halvorson, Oregon State Archives CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=135929368)
+
 :::

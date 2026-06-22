@@ -2,8 +2,8 @@
 title: "City of Bellevue, Washington"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/bellevue_WA.jpg
+image-alt: "Image of Bellevue, Washington"
 categories: []
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,6 @@ categories: []
 # Solid Waste Collection Contract Compliance Audit
 
 TODO: Contents
+
+[By Spicypepper999 - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=164575781)
 :::

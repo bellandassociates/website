@@ -2,8 +2,8 @@
 title: "Columbia County, Oregon"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/columbia_OR.jpg
+image-alt: "Image of Columbia, Oregon"
 categories: ["Transfer"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,4 +15,6 @@ categories: ["Transfer"]
 # 2009 Transfer Station Rate Study
 
 TODO: Contents
+
+[By Cacophony - Own work, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3616524)
 :::

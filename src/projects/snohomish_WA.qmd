@@ -2,12 +2,14 @@
 title: "Snohomish County, Washington MRF"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/snohomish_WA.jpg
+image-alt: "Image of Snohomish County, Washington"
 categories: ["MRF"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Dicklyon - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=107878446)
 :::

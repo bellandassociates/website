@@ -2,8 +2,8 @@
 title: "New York City, New York"
 subtitle: "2018"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/new_york_city_NY.jpg
+image-alt: "Image of the New York City"
 categories: ["MRF"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,4 +15,7 @@ categories: ["MRF"]
 # Transfer System Analysis
 
 TODO: Contents
+
+[By Dllu, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=126278106)
+
 :::

@@ -2,7 +2,7 @@
 title: "City of Coolidge, Arizona Service Procurement"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
+image: /images/coolidge_AZ.jpg
 image-alt: ""
 categories: ["Service Procurement"]
 ---
@@ -10,4 +10,6 @@ categories: ["Service Procurement"]
 
 ::: {.article}
 TODO: Contents
+
+[By Marine 69-71 - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=48226352)
 :::

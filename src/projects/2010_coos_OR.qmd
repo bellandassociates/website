@@ -2,8 +2,8 @@
 title: "Coos County, Oregon"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/coos_OR.jpg
+image-alt: "Coos County, Oregon"
 categories: ["Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,6 @@ categories: ["Landfill/Disposal"]
 # 2010 Waste Disposal Alternatives Study
 
 TODO: Contents
+
+[By Ian Poellet - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=37953949)
 :::

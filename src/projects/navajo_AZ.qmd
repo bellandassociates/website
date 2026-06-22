@@ -2,12 +2,14 @@
 title: "Navajo Nation Waste Planning"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/navajo_nation_AZ.jpg
+image-alt: "Image in Navajo Nation"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Ben FrantzDale - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=1097946)
 :::

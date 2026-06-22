@@ -1,13 +1,15 @@
 ---
-title: "Wheeler County. Oregon Waste Planning"
+title: "Wheeler County, Oregon Waste Planning"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/wheeler_OR.jpg
+image-alt: "Image of Wheeler, Oregon"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By John Stanton, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=61456107)
 :::

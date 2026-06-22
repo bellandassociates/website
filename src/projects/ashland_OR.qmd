@@ -2,12 +2,14 @@
 title: "City of Ashland, Oregon Rate Setting"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/ashland_OR.jpg
+image-alt: "Image of Ashland, Oregon"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Demi~commonswiki - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=72127)
 :::

@@ -2,8 +2,8 @@
 title: "Silver City, New Mexico"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/silver_city_NM.jpg
+image-alt: "Image of Silver City, New Mexico"
 categories: []
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,4 +15,6 @@ categories: []
 # Program Implementation
 
 TODO: Contents
+
+[By Matthew.kowal - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=106154319)
 :::

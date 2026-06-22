@@ -2,8 +2,8 @@
 title: "Clay County, Minnesota"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/clay_MN.png
+image-alt: "Image of Clay County, Minnesota"
 categories: ["MRF"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,6 @@ categories: ["MRF"]
 # 2014 Transfer Station / MRF Cost of Service Analysis
 
 TODO: Contents
+
+[By Billybob2002 - Took photo, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=166201654)
 :::

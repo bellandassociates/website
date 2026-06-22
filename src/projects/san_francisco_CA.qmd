@@ -2,12 +2,14 @@
 title: "San Francisco Bay Area Wasteshed Study"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/san_francisco_CA.jpg
+image-alt: "Image of San Francisco, California"
 categories: ["Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Lars Ling, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=121467193)
 :::

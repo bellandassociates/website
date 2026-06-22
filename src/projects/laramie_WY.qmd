@@ -2,8 +2,8 @@
 title: "City of Laramie, Wyoming"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/laramie_WY.jpg
+image-alt: "Image of Laramie, Wyoming"
 categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,4 +15,6 @@ categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 # Recycling Service Procurement
 
 TODO: Contents
+
+[By Catlin Mary Ann Miller - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=73284095)
 :::

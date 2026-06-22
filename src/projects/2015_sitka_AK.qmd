@@ -2,8 +2,8 @@
 title: "City/Borough of Sitka, Alaska"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/sitka_AK.jpg
+image-alt: "Image of Sitka, Alaska"
 categories: ["Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -13,4 +13,6 @@ categories: ["Service Procurement"]
 # 2015 Transfer Station & Disposal Service Procurement
 
 TODO: Contents
+
+[By Gillfoto - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=72903532)
 :::

@@ -2,8 +2,8 @@
 title: "Chelan County, Washington"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/chelan_WA.jpg
+image-alt: "Image of Chelan County, Washington"
 categories: ["Transfer"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -22,4 +22,5 @@ improve operating efficiencies at the transfer stations.
 
 Reference: Brenda Blanchfield
 
+[By Joe Mabel, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4768854)
 :::

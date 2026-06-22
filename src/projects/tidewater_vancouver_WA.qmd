@@ -1,13 +1,15 @@
 ---
-title: "Tidewater Barge, Vancouver, Washington "
+title: "Tidewater Barge, Vancouver, Washington"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/vancouver_WA.jpg
+image-alt: "Image of Vancouver, Washington"
 categories: ["MRF"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Spicypepper999 - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=149330291)
 :::

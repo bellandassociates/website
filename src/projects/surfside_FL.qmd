@@ -2,12 +2,14 @@
 title: "Town of Surfside, Florida Rate Setting"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/surfside_FL.jpg
+image-alt: "Image of surfside, Florida"
 categories: ["Rate Setting"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By Alexf - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=32276670)
 :::

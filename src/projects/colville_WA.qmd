@@ -2,7 +2,7 @@
 title: "Confederated Tribes of Colville, Washington Waste Planning"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
+image: /images/colville_reservation.jpg
 image-alt: ""
 categories: ["Integrated Solid Waste Planning"]
 ---

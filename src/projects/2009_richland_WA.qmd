@@ -2,8 +2,8 @@
 title: "City of Richland"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/richland_OR.jpg
+image-alt: "Image of Richland, Oregon"
 categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,4 +15,6 @@ categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 # 2009 Compost Facility Cost of Service
 
 TODO: Contents
+
+[By Finetooth - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4428613)
 :::

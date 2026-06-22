@@ -2,12 +2,14 @@
 title: "Phoenix Areas Wasteshed Study"
 subtitle: "2000"
 number: 0
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/phoenix_AZ.jpg
+image-alt: "Image of Phoenix, Arizonal"
 categories: ["Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
 TODO: Contents
+
+[By DPPed - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=16201270)
 :::
