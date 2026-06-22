@@ -3,7 +3,7 @@ title: "City of Walla Walla, Washington Landfill/Disposal"
 subtitle: "2000"
 number: 99999
 image: /images/walla_walla_WA.jpg
-image-alt: ""
+image-alt: "Image of the city of Walla Walla, Washington"
 categories: ["Landfill/Disposal"]
 ---
 {{< include _return-to-pf.qmd >}}
