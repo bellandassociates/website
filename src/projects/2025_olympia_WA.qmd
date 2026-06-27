@@ -1,0 +1,22 @@
+---
+title: "City of Olympia, Washington Solid Waste Management Plan"
+subtitle: "2022"
+number: 18
+image: /images/olympia_WA.jpg
+image-alt: "Image of Olympia, Washington"
+categories: ["Transfer/MRF/Transport"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+Bell & Associates has completed cost of service studies for Olympia in
+conjunction with the City’s solid waste management plan in 2021, and has
+recently calculated the cost of implementing a city-wide organic collection
+program. Waste and recycling services are provided to the City’s 15,000 cart
+and 850 commercial container customers. The recent study recommended a
+city-wide re-route of residential collection to reduce the number of sideload
+collection trucks needed to implement the state’s mandated residential
+organic collection program.
+
+[By OceanLoop - Own work (OceanLoop), CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=170552176)
+:::
