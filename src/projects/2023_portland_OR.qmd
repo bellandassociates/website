@@ -18,6 +18,16 @@ categories: ["Transfer/MRF/Transport", "Service Procurement"]
 
 # 2012 Transfer Station Repair & Replacement Study
 
+Bell & Associates was a subcontractor to URS for the transfer station repair
+and replacement study. Bell & Associates completed the financial analysis of
+the study of Metro’s two transfer stations and closed landfill. The study
+reviewed the facilities and equipment at all three sites to identify what
+repairs and replacements are necessary during the next 20 years. Bell &
+Associates reviewed the current fund balances for transfer stations as well as
+the closure account for the St. John’s Landfill to determine if the current
+balances and contributions were adequate to fund future operational needs and
+asset replacement.
+
 # 2008 Transfer Station Repair & Replacement Study
 
 TODO: Contents
