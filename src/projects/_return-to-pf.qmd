@@ -1,7 +1,17 @@
-<buttom onclick="
-    if (document.referrer) {
+<button onclick="
+    if (history.length > 1) {
         history.back();
     } else {
         window.location.href = '/portfolio.html';
     }
-">&lt; Return to previous page</button>
+"
+style="
+    display:inline-block;
+    padding:6px 12px;
+    border:1px solid #aaa;
+    border-radius:4px;
+    background:#e9ecef;
+    cursor:pointer;
+    color:#333;
+    font-weight:500;
+">&lt; Return to portfolio</button>
