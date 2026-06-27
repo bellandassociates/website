@@ -12,13 +12,13 @@ categories: ["Rate Setting"]
 
 # 2024
 
-You can see Chris Bell, CPA presenting his report on solid waste rate review for
-Wilsonville, Oregon at the city commission meeting.
+Chris Bell, CPA presents his report on solid waste rate review for Wilsonville,
+Oregon at the city commission meeting (first meeting item).
+
+{{< video https://www.youtube.com/embed/ZMF4cfzRhtc?si=XbPb_FSD5s2832HA >}}
 
 You can also review the [presentation file](https://mccmeetingspublic.blob.core.usgovcloudapi.net/wlsnvlleor-meet-e73d1dfa0efe4bd683a3515931433fe7/ITEM-Attachment-001-44205fab0cf144f4a817dab559056b41.pdf)
 used for this meeting.
-
-{{< video https://www.youtube.com/embed/ZMF4cfzRhtc?si=XbPb_FSD5s2832HA >}}
 
 # 2023
 
