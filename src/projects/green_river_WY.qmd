@@ -1,0 +1,21 @@
+---
+title: "City of Green River, Wyoming Solid Waste Management Plan"
+subtitle: "2000"
+number: 0
+image: /images/clackamas.jpg
+image-alt: "Image of clackamas county"
+categories: ["Integrated Solid Waste Planning"]
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+
+As a sub-consultant to Inberg-Miller Engineers, Mr. Bell assisted the City of
+Green River with the waste projections and operational and financial cost
+forecasts for their local and regional plans (I-80 Regional Planning Group).
+The result of the plan was a recommendation to close the City's unlined
+landfill by 2015 and direct haul to the Rock Springs regional landfill. Other
+recommendations included considering a regional material recovery facility to
+serve the south eastern Wyoming jurisdictions. 
+
+:::

@@ -1,0 +1,25 @@
+---
+title: "Springville, Utah Solid Waste Services Study and Operational Assessment Client"
+subtitle: "2000"
+number: 0
+image: /images/clackamas.jpg
+image-alt: "Image of Clackamas"
+categories: []
+---
+{{< include _return-to-pf.qmd >}}
+
+::: {.article}
+
+The SUVSWD hired a team including Mr. Bell in 2007 to develop a strategic solid
+waste plan for its future. The impetus for this plan was a combination of
+issues that required the District to consider how it would meet the demand for
+solid waste services through the growth of the south Utah City region. The
+issues that defined this growth included the City of Provo's rapid growth and
+the City of Springville's mandate to relocate the existing transfer operations;
+how the District would site and develop a new transfer station, landfill and as
+well as its consideration of a waste-to-energy proposal for its waste stream.
+The project team systematically reviewed and identified priorities and options
+and considered an interim transfer station solution, and delivered a strategic
+twenty year plan to guide the District's future.
+
+:::
