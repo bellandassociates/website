@@ -1,7 +1,6 @@
 ---
 title: "City of Ashland, Oregon Rate Setting"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/ashland_OR.jpg
 image-alt: "Image of Ashland, Oregon"
 categories: ["Rate Setting"]

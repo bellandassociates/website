@@ -1,7 +1,6 @@
 ---
 title: "City of Camas, Washington Plan for Growth/Collection Reroute Plan"
-subtitle: "2017"
-number: 11
+year: 2017
 image: /images/camas_WA.jpg
 image-alt: "Image of Camas, Washington"
 categories: ["Transfer/MRF/Transport"]

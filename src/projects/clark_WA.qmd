@@ -1,7 +1,6 @@
 ---
 title: "Clark County, Washington"
-subtitle: "2019-2025"
-number: 7
+year: 2025
 image: /images/clark_WA.jpg
 image-alt: "Image of Clark County, Washington"
 categories: ["MRF", "Transfer"]

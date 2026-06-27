@@ -1,7 +1,6 @@
 ---
 title: "Columbia County, Oregon"
-subtitle: "2000"
-number: 0
+year: 2012
 image: /images/columbia_OR.jpg
 image-alt: "Image of Columbia, Oregon"
 categories: ["Transfer"]

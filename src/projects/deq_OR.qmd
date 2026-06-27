@@ -1,7 +1,6 @@
 ---
 title: "Oregon Department of Environmental Quality"
-subtitle: "2020-2023"
-number: 19
+year: 2023
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
 categories: ["Rate Setting", "Transfer/MRF/Transport"]

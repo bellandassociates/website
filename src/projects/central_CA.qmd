@@ -1,7 +1,6 @@
 ---
 title: "Central California Solid Waste Wasteshed Study"
-subtitle: "-"
-number: 8
+year: 1
 image: /images/central_CA.jpg
 image-alt: "Image of Central California"
 categories: ["Transfer/MRF/Transport"]

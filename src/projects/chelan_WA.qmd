@@ -1,7 +1,6 @@
 ---
 title: "Chelan County, Washington"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/chelan_WA.jpg
 image-alt: "Image of Chelan County, Washington"
 categories: ["Transfer"]

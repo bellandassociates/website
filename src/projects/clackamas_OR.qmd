@@ -1,6 +1,6 @@
 ---
 title: "Clackamas County, Oregon"
-number: 7
+year: 2015
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas County, Oregon"
 categories: ["Rate Setting", "Transfer"]

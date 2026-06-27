@@ -1,7 +1,6 @@
 ---
 title: "City of Flagstaff, Arizona MRF Feasibility Study / SW Planning"
-subtitle: "2019-2023"
-number: 21
+year: 1
 image: /images/flagstaff_AZ.jpg
 image-alt: "Image of Flagstaff, Arizona"
 categories: ["Transfer/MRF/Transport"]

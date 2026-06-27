@@ -1,7 +1,6 @@
 ---
 title: "City of Boise, Idaho"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/boise_ada_ID.jpg
 image-alt: "Image of Boise, Idaho"
 categories: ["Integrated Solid Waste Planning", "Service Procurement"]

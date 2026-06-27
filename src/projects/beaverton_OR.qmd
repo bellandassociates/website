@@ -1,6 +1,6 @@
 ---
 title: "City of Beaverton"
-number: 0
+year: 1
 image: /images/beaverton_OR.jpg
 image-alt: "Image of Beaverton, Oregon"
 categories: ["Rate Setting"]

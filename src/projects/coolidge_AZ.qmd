@@ -1,7 +1,6 @@
 ---
 title: "City of Coolidge, Arizona Service Procurement"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/coolidge_AZ.jpg
 image-alt: ""
 categories: ["Service Procurement"]

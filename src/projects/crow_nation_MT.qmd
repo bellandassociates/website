@@ -1,7 +1,6 @@
 ---
 title: "Crow Nation Waste Planning"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/crow_MT.jpg
 image-alt: "Image of Crow Nation"
 categories: ["Integrated Solid Waste Planning"]

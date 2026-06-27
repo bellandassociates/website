@@ -1,7 +1,6 @@
 ---
 title: "City of Albuquerque Annual Cost of Service Study and Rate Setting"
-subtitle: "2009-2025"
-number: 31
+year: 2025
 image: /images/albuquerque.jpg
 image-alt: "Image of Albuquerque"
 categories: ["Rate Setting", "Integrated Solid Waste Planning"]

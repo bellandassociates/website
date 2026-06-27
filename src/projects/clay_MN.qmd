@@ -1,7 +1,6 @@
 ---
 title: "Clay County, Minnesota"
-subtitle: "2000"
-number: 0
+year: 2014
 image: /images/clay_MN.png
 image-alt: "Image of Clay County, Minnesota"
 categories: ["MRF"]

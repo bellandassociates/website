@@ -1,7 +1,6 @@
 ---
 title: "Coos County, Oregon"
-subtitle: "2000"
-number: 0
+year: 2010
 image: /images/coos_OR.jpg
 image-alt: "Coos County, Oregon"
 categories: ["Landfill/Disposal"]

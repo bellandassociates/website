@@ -1,7 +1,6 @@
 ---
 title: "Ada County, Idaho Landfill Cost of Service Study"
-subtitle: "-"
-number: 15
+year: 1
 image: /images/boise_ada_ID.jpg
 image-alt: "Image of Ada, Idaho"
 categories: ["Landfill/Disposal"]

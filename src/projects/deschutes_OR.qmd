@@ -1,7 +1,6 @@
 ---
 title: "Deschutes County, Oregon Transfer System Cost/Operational Analysis"
-subtitle: "2022-2023"
-number: 20
+year: 2023
 image: /images/deschutes_OR.jpg
 image-alt: "Image of Deschutes County, Washington"
 categories: ["Transfer/MRF/Transport"]
