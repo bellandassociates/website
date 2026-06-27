@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles, California"
-subtitle: "-"
+subtitle: "2013-2016, 2025-2026"
 number: 5
 image: /images/los_angeles_CA.jpg
 image-alt: "Image of Los Angeles, California"
@@ -10,9 +10,28 @@ categories: ["Rate Setting", "Service Procurement"]
 
 ::: {.article}
 
-# Commercial Franchise Rate Method / Procurement
+# 2025-2026 City of Los Angeles Commercial Collection Franchise Procurement (recycLA)
+The Los Angeles Department of Sanitation is completing the second iteration of
+procuring service providers for its commercial collection franchise, known as
+recycLA. The focus of the updated program is to comply with California law
+SB-1383 by providing the city’s 66,000 commercial customers with organic
+collection and increasing the effort to increase material diversion. Additional
+considerations include an electric collection fleet and reduced access and
+distance fees. Mr. Bell is assisting with the analysis of the proposed rates
+and fees, rate modeling, and negotiations with potential recycLA service
+providers.
 
-TODO: Contents
+# 2013-2016 City of Los Angeles Commercial Collection Franchise Procurement and Implementation
+
+The Los Angeles Department of Sanitation is completing the second iteration of
+procuring service providers for its commercial collection franchise, known as
+recycLA. The focus of the updated program is to comply with California law
+SB-1383 by providing the city’s 66,000 commercial customers with organic
+collection and increasing the effort to increase material diversion. Additional
+considerations include an electric collection fleet and reduced access and
+distance fees. Mr. Bell is assisting with the analysis of the proposed rates
+and fees, rate modeling, and negotiations with potential recycLA service
+providers.
 
 (By Alek Leckszas - Own work, CC BY-SA 4.0)[https://commons.wikimedia.org/w/index.php?curid=76431252]
 :::
