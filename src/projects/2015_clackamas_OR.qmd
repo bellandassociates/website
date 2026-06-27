@@ -10,21 +10,43 @@ categories: ["Rate Setting", "Transfer"]
 ::: {.article}
 ![](/images/clackamas.jpg){.left-img}
 
-# Annual Collection System Financial / Operational Review and Rate Setting
+# 2001-2015 Annual Collection System Financial / Operational Review and Rate Setting
+
+Waste and recycling collection in Oregon is accomplished through exclusive
+territories franchised to private collection companies. The companies are a
+mixture of public companies and locally owned haulers. Franchisees complete
+and submit a detailed cost report to the jurisdiction that regulates the
+franchise – either a city or county. The cost report is a mixture of an
+annual income statement and the operational data (customers, collected tons,
+collection hours, etc.) used by the regulators to set collection rates, assess
+performance, and establish new collection programs. Oregon is one of the few
+states in the US that require this level of information from the waste and
+recycling collection service providers, but it gives the regulators the
+information necessary to efficiently manage the collection and diversion
+activities through rates and policy.
+
+Clackamas County is one of 14 Oregon jurisdictions that Bell & Associates
+annually assists with the financial and operational analysis as part of the
+annual rate review. This process is a critical review of the previous year’s
+financial results of operation combined with the reported operational results.
+Audit procedures and testing of revenues and expenses are completed to
+determine the cost of providing the services. Adjustments are made to the
+submitted reports to ensure the costs are accurate and the rates reflect the
+cost of collection services. Seven franchised companies (including three public
+companies) serve Clackamas County’s 58,000 residential and 4,000 commercial
+customers. Clackamas County covers 1,879 square miles and is segregated into
+four rate regions: the heavily populated urban region near the I-205 corridor,
+a sprawling rural region just outside the Portland Metro Urban Growth Boundary,
+a distant rural region adjacent to the Mount Hood National Forest, and a
+mountain region on Mount Hood. Operating results for each region are analyzed,
+adjusted, aggregated, and then projected for the current year. Rates are set
+based on the results of the annual rate review. 
 
 Bell & Associates has performed the annual solid waste review for this county
-since 2001. The financial and operational examination consists of 11 separate
-hauling companies serving the county’s 46,300 residential and 2,100 commercial
-customers in the unincorporated urban and rural areas. The county covers 1,879
-square miles and is segregated into four distinct regions: the densely
-populated Urban Region near the I-205 corridor, the Rural Region just outside
-the Portland Metro Urban Growth Boundary, the Distant Rural Region adjacent to
-the Mount Hood National Forest, and the Mountain Region on Mount Hood.
-Operating results for each region are analyzed, adjusted, aggregated, and then
-projected for the current year. 
-
-Reference: Rick Winterhalter
+since 2001.
 
 # 2015 Transfer Station Revenue Analysis
+
+TODO: Fill in info
 
 :::
