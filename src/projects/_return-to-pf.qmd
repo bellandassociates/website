@@ -1,1 +1,7 @@
-<a href="../portfolio.qmd" class="back-button">&lt; Return to Portfolio</a>
+<buttom onclick="
+    if (document.referrer) {
+        history.back();
+    } else {
+        window.location.href = '/portfolio.html';
+    }
+">&lt; Return to previous page</button>
