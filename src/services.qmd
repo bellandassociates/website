@@ -11,12 +11,24 @@ format:
 
 # Rate Setting / Cost of Service Review / Financial & Operational Analysis
 
+TODO: Text blob
+
 # Integrated Solid Waste Planning
+
+TODO: Text blob
 
 # Transfer / MRF / Transport
 
-# Landfill / Disposal
+TODO: Text blob
 
-# Service Procurement
+# [Landfill / Disposal](portfolio.html#category=Landfill/Disposal)
 
-# Expert Witness
+TODO: Text blob
+
+# [Service Procurement](portfolio.html#category=Service Procurement)
+
+TODO: Text blob
+
+# [Expert Witness](witness.html)
+
+TODO: Text blob about expert witness work

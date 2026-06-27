@@ -21,6 +21,8 @@ website:
         text: Portfolio
       - href: map.qmd
         text: Project Map
+      - href: witness.qmd
+        text: Expert Witness
       - href: contact.qmd
         text: Contact Us
   page-navigation: true

@@ -1,0 +1,45 @@
+---
+title: "Bell & Associates"
+subtitle: "We know the box"
+title-block-banner: images/banner.jpg
+format:
+    html:
+        toc: false
+---
+
+# Prior Experience
+
+The following is a list of court cases where Bell & Associates served as an
+expert witness.
+
+## Pedro Guzman and others similarly situated v Cedarwood – Young and Allan Company
+Case No. 37-2019-00011626-CU-OE-CTL in San Diego County, California Superior Court 
+Retained by Hill, Farrer & Burrill LLP (E. Sean Mcloughlin, Partner) for the defendant
+
+Trial Summary: Class action lawsuit for the underpayment of wages
+
+Work Completed: Expert witness report, deposition, and trial testimony
+
+## Texas Disposal Systems Landfill, Inc. v City of San Antonio, Texas
+Cause No. 2022-CI-06061in Bexar County District Court, Texas 288th Judicial District
+Retained by Graves, Dougherty, Hearon & Moody (James Hemphill, Partner) for the plaintiff
+
+Trial Summary: Breach of contract
+
+Work Completed: Expert witness report, deposition, and trial testimony
+
+## BBJL Properties, LLC and others similarly situated v Flood Brothers Disposal Company
+Case No: 2017 CH 02318 in Circuit Court of Cook County, Illinois, Chancery Division
+Retained by O’Hagan Meyer (Sean Rohan, Partner) for the defendant
+
+Trial Summary: Class action lawsuit regarding overcharges for service
+
+Work Completed: Expert witness report and deposition
+
+## ESG Watts, Inc. v Allied Waste Industries 
+Case No. 2021 L 000044 in the Sangamon County, Illinois, 7th Judicial Circuit District 
+Retained by Brown Hay + Stephens (Ted Graham, Jr.) for the defendant
+
+Trial Summary: Contract Breach
+
+Work Completed: Expert witness report
