@@ -7,7 +7,10 @@ format:
         toc: false
 ---
 
-Project map
+# Project administrative boundaries map
+
+This map highlights the administrative jurisdictions covered by past projects
+that Bell & Associates were involved in.
 
 ```{python}
 #| echo: false
@@ -36,12 +39,20 @@ for _, row in df.iterrows():
             style_function=lambda x: {
                 "color": "red",
                 "weight": 3,
-                "fillOpacity": 0.15
+                "fillOpacity": 0.4,
+                "stroke": False
             }
         ).add_to(m)
     except TypeError:
         gdf = ox.geocode(place)
-    folium.Marker(center, tooltip=place).add_to(m)
-
+    folium.Marker(
+        center,
+        tooltip=place,
+        color="red",
+    ).add_to(m)
+#radius=3,
+#fill=True,
+#fill_opacity=1,
+#stroke=False
 m
 ```
