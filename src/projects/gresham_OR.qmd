@@ -13,5 +13,5 @@ categories: ["Rate Setting"]
 
 TODO: Contents
 
-[By SkatePark in Main City Park, Gresham, Oregon.jpg - Wikimedia Commons, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=70225826)
+[Thumbnail Image by SkatePark in Main City Park, Gresham, Oregon.jpg - Wikimedia Commons, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=70225826)
 :::

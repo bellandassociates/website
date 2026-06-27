@@ -13,6 +13,5 @@ categories: ["Integrated Solid Waste Planning"]
 
 TODO: Contents
 
-[By Gary Halvorson, Oregon State Archives CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=135929368)
-
+[Thumbnail Image by Gary Halvorson, Oregon State Archives CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=135929368)
 :::

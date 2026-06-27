@@ -10,5 +10,5 @@ categories: ["Transfer/MRF/Transport"]
 ::: {.article}
 TODO: Contents
 
-[By Gary Halvorson, Oregon State Archives](CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=135945840)
+[Thumbnail Image by Gary Halvorson, Oregon State Archives](CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=135945840)
 :::

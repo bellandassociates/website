@@ -10,5 +10,5 @@ categories: ["Integrated Solid Waste Planning"]
 ::: {.article}
 TODO: Contents
 
-[By Ben FrantzDale - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=1097946)
+[Thumbnail Image by Ben FrantzDale - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=1097946)
 :::

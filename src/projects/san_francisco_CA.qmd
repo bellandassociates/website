@@ -10,5 +10,5 @@ categories: ["Landfill/Disposal"]
 ::: {.article}
 TODO: Contents
 
-[By Lars Ling, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=121467193)
+[Thumbnail Image by Lars Ling, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=121467193)
 :::

@@ -14,5 +14,5 @@ categories: ["Transfer/MRF/Transport"]
 # 2021 Transfer and Transport Systems Analysis
 TODO: Contents
 
-[By Ian Poellet - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7257310)
+[Thumbnail Image by Ian Poellet - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7257310)
 :::

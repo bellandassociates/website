@@ -10,5 +10,5 @@ categories: ["Rate Setting"]
 ::: {.article}
 TODO: Contents
 
-[By Abhiram Juvvadi - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=145511925)
+[Thumbnail Image by Abhiram Juvvadi - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=145511925)
 :::

@@ -1,8 +1,8 @@
 ---
 title: "Quechan Tribe, Yuma, Waste Planning"
 year: 1
-image: /images/clackamas.jpg
-image-alt: ""
+image: /images/quechan_AZ.jpg
+image-alt: "Seal of Quechan Tribe in Arizona"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}

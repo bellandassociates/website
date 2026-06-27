@@ -1,8 +1,8 @@
 ---
 title: "King County, Washington"
 year: 2024
-image: /images/albuquerque.jpg
-image-alt: "Image of Albuquerque"
+image: /images/king_WA.jpg
+image-alt: "Image of King County, Washington"
 categories: ["Transfer/MRF/Transport"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -15,7 +15,6 @@ categories: ["Transfer/MRF/Transport"]
 
 TODO: Project info
 
-Thumbnail image attribution:
-[By Quintin Soloviev - Own work, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=186809197)
+[Thumbnail Image by Joe Mabel, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=74506051)
 :::
 

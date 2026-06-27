@@ -10,6 +10,5 @@ categories: ["Transfer/MRF/Transport"]
 ::: {.article}
 TODO: Contents
 
-[By Cmglee and Spicypepper999, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=187451298)
-
+[Thumbnail Image by Cmglee and Spicypepper999, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=187451298)
 :::

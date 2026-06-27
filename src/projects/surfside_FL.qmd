@@ -10,5 +10,5 @@ categories: ["Rate Setting"]
 ::: {.article}
 TODO: Contents
 
-[By Alexf - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=32276670)
+[Thumbnail Image by Alexf - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=32276670)
 :::

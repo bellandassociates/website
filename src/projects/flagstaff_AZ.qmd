@@ -10,5 +10,5 @@ categories: ["Transfer/MRF/Transport"]
 ::: {.article}
 TODO: Contents
 
-[By SearchNet Media from Tucson, Arizona, USA - Downtown Flagstaff Hotel, CC BY 2.0](https://commons.wikimedia.org/w/index.php?curid=8561133)
+[Thumbnail Image by SearchNet Media from Tucson, Arizona, USA - Downtown Flagstaff Hotel, CC BY 2.0](https://commons.wikimedia.org/w/index.php?curid=8561133)
 :::

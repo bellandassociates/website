@@ -15,6 +15,5 @@ categories: ["MRF"]
 
 TODO: Contents
 
-[By Dllu, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=126278106)
-
+[Thumbnail Image by Dllu, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=126278106)
 :::

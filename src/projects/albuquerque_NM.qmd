@@ -37,6 +37,5 @@ provided by the City.
 
 TODO: Contents
 
-Thumbnail image attribution:
-[By Quintin Soloviev - Own work, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=186809197)
+[Thumbnail Image by Quintin Soloviev - Own work, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=186809197)
 :::

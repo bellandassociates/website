@@ -10,5 +10,5 @@ categories: ["Transfer/MRF/Transport"]
 ::: {.article}
 TODO: Contents
 
-[By BrendelSignature at English Wikipedia](CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=9737007)
+[Thumbnail Image by BrendelSignature at English Wikipedia](CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=9737007)
 :::

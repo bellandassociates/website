@@ -10,5 +10,5 @@ categories: ["Integrated Solid Waste Planning"]
 ::: {.article}
 TODO: Contents
 
-[By David Coats - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=28510683)
+[Thumbnail Image by David Coats - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=28510683)
 :::

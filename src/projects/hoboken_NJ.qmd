@@ -10,5 +10,5 @@ categories: ["Transfer/MRF/Transport"]
 ::: {.article}
 TODO: Contents
 
-[By King of Hearts - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=51409542)
+[Thumbnail Image by King of Hearts - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=51409542)
 :::

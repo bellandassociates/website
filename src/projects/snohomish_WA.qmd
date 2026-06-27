@@ -10,5 +10,5 @@ categories: ["MRF"]
 ::: {.article}
 TODO: Contents
 
-[By Dicklyon - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=107878446)
+[Thumbnail Image by Dicklyon - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=107878446)
 :::
