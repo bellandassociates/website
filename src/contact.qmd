@@ -10,8 +10,12 @@ format:
 # Contact information
 
 ::: contact-box
+
+### Chris Bell, CPA
+
 |        |                             |
 |--------|-----------------------------|
 | Email  | chris@bellassociatesinc.com |
 | Phone  | (360) 210-4344              |
+
 :::
