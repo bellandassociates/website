@@ -1,7 +1,7 @@
 ---
 title: "Gustavus, Alaska Landfill"
 year: 1
-image: /images/clackamas.jpg
+image: /images/gustavus_AK.jpg
 image-alt: ""
 categories: ["Landfill/Disposal"]
 ---
@@ -9,4 +9,6 @@ categories: ["Landfill/Disposal"]
 
 ::: {.article}
 TODO: Contents
+
+[Thumbnail Image by Joeylesh at English Wikipedia - Own work by the original uploader, CC BY-SA 2.5](https://commons.wikimedia.org/w/index.php?curid=56544400)
 :::
