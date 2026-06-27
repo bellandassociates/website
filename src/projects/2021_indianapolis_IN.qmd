@@ -9,5 +9,11 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-TODO: Contents
+Mr. Bell was subcontracted to complete a cost of service study for the City of
+Indianapolis Solid Waste Services Division (Division). The purpose of the study
+was to understand the specific costs of the various services provided by the
+Division, document the operational metrics, understand the financial impact of
+regular equipment replacement, compare expenses to City contracted service
+providers, understand the impact of the City's recycling program, and to
+prepare baseline costs and rates for future service procurement.
 :::
