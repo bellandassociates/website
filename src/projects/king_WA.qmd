@@ -1,7 +1,6 @@
 ---
 title: "King County, Washington"
-subtitle: "2018, 2024"
-number: 26
+year: 2024
 image: /images/albuquerque.jpg
 image-alt: "Image of Albuquerque"
 categories: ["Transfer/MRF/Transport"]

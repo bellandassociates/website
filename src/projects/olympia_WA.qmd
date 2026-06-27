@@ -1,7 +1,6 @@
 ---
 title: "City of Olympia, Washington Solid Waste Management Plan"
-subtitle: "2022"
-number: 18
+year: 2022
 image: /images/olympia_WA.jpg
 image-alt: "Image of Olympia, Washington"
 categories: ["Transfer/MRF/Transport"]

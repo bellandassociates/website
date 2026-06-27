@@ -1,7 +1,6 @@
 ---
 title: "Phoenix Areas Wasteshed Study"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/phoenix_AZ.jpg
 image-alt: "Image of Phoenix, Arizonal"
 categories: ["Landfill/Disposal"]

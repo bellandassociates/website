@@ -1,7 +1,6 @@
 ---
 title: "City of Laramie, Wyoming"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/laramie_WY.jpg
 image-alt: "Image of Laramie, Wyoming"
 categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]

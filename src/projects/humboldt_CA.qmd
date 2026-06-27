@@ -1,7 +1,6 @@
 ---
-title: "Humboldt County Regional Cost and Operational Assessment" 
-subtitle: "2023-2025"
-number: 77
+title: "Humboldt County, California" 
+year: 2025
 image: /images/humboldt.jpg
 image-alt: "Image of Humboldt County, California"
 ---
@@ -10,12 +9,17 @@ image-alt: "Image of Humboldt County, California"
 ::: {.article}
 ![](/images/humboldt.jpg){.left-img}
 
-# 2023-2025 Humboldt County, California Regional Cost and Operational Assessment
+# 2023-2025 Regional Cost and Operational Assessment
 
 Bell & Associates assisted the Cities of Eureka, Arcata, Fortuna, and Humboldt
 County in calculating the cost of service for waste and recycling collection
-prior to the countywide implementation of SB 1383 programs. Financial and
-operational data were collected from the franchised hauler, and reports were
+prior to the countywide implementation of SB 1383 programs. Bell & Associates
+collected financial and operational data from the franchised hauler's
+(Recology) waste collection operations, evaluated the cost of collection
+services for each jurisdiction, established cost of service collection rates,
+assisted with updating the franchise contracts and updating the methods for
+annual rate adjustments, and determined the cost and rate impacts of
+implementing SB 1383, California’s organic collection law. The reports were
 provided to the cities and Humboldt County detailing the cost of current
 services. 
 
@@ -29,10 +33,6 @@ within each franchise annually. Rather than layering the additional costs
 associated with SB 1383, jurisdictions can establish baseline program
 performance measures and costs to integrate the new program changes and be
 accountable to their constituencies. 
-
-# Humboldt County Regional Cost and Operational Assessment
-
-The cities and Humboldt County contracted with Bell & Associates to assess Recology’s waste collection operations, evaluate the cost of collection services for each jurisdiction, establish cost of service collection rates, assist with updating the franchise contracts and updating the methods for annual rate adjustments, and determine the cost and rate impacts of implementing SB 1383, California’s organic collection law.
 
 Thumbnail image attribution:
 [Bdonjc - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112642181)

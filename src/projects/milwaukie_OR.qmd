@@ -1,7 +1,6 @@
 ---
 title: "City of Milwaukie Oregon Solid Waste Rates Review"
-subtitle: "May 2025"
-number: 33
+year: 2025
 image: /images/milwaukie-or.jpg
 image-alt: "Image of Milwaukie, Oregon"
 ---

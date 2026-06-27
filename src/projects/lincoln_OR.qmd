@@ -1,7 +1,6 @@
 ---
 title: "Lincoln County, Oregon Solid Waste Management Plans"
-subtitle: "2018"
-number: 12
+year: 2018
 image: /images/lincoln_OR.jpg
 image-alt: "Image of Lincoln County, Oregon"
 categories: ["Transfer/MRF/Transport"]

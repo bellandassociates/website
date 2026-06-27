@@ -1,7 +1,6 @@
 ---
 title: "Silver City, New Mexico"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/silver_city_NM.jpg
 image-alt: "Image of Silver City, New Mexico"
 categories: ["Integrated Solid Waste Planning"]

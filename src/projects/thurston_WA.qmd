@@ -1,7 +1,6 @@
 ---
 title: "Thurston, Washington Waste Planning"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/thurston_WA.jpg
 image-alt: "Image of Thurston, Washington"
 categories: ["Integrated Solid Waste Planning"]

@@ -1,7 +1,6 @@
 ---
 title: "City of Green River, Wyoming Solid Waste Management Plan"
-subtitle: "2000"
-number: 0
+year: 2015
 image: /images/clackamas.jpg
 image-alt: "Image of clackamas county"
 categories: ["Integrated Solid Waste Planning"]

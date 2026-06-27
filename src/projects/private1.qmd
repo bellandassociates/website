@@ -1,7 +1,6 @@
 ---
 title: "Private Client in Seattle, Washington Regional Recycling Processing Cost Study"
-subtitle: "2023"
-number: 23
+year: 2023
 image: /images/seattle_WA.jpg
 image-alt: "Image of Seattle, Washington"
 categories: ["Transfer/MRF/Transport"]

@@ -1,7 +1,6 @@
 ---
 title: "Los Angeles, California"
-subtitle: "2013-2016, 2025-2026"
-number: 78
+year: 2026
 image: /images/los_angeles_CA.jpg
 image-alt: "Image of Los Angeles, California"
 categories: ["Rate Setting", "Service Procurement"]
@@ -33,5 +32,5 @@ distance fees. Mr. Bell is assisting with the analysis of the proposed rates
 and fees, rate modeling, and negotiations with potential recycLA service
 providers.
 
-(By Alek Leckszas - Own work, CC BY-SA 4.0)[https://commons.wikimedia.org/w/index.php?curid=76431252]
+[Thumbnail Image by Alek Leckszas - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=76431252)
 :::

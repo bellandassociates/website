@@ -1,7 +1,6 @@
 ---
 title: "Tidewater Barge, Vancouver, Washington"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/vancouver_WA.jpg
 image-alt: "Image of Vancouver, Washington"
 categories: ["MRF"]

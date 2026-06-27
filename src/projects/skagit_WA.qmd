@@ -1,7 +1,6 @@
 ---
 title: "Skagit County, Washington"
-subtitle: "August 2018"
-number: 14
+year: 2018
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
 categories: ["Transfer/MRF/Transport", "Rate Setting"]

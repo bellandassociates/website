@@ -1,7 +1,6 @@
 ---
 title: "City/Borough of Sitka, Alaska"
-subtitle: "2000"
-number: 0
+year: 2015
 image: /images/sitka_AK.jpg
 image-alt: "Image of Sitka, Alaska"
 categories: ["Service Procurement"]

@@ -1,7 +1,6 @@
 ---
 title: "City of Vancouver, Washington Collection Rate Update Support"
-subtitle: "2022-2024"
-number: 30
+year: 2024
 image: /images/vancouver_WA.jpg
 image-alt: "Image of Vancouver, Washington"
 categories: ["Rate Setting"]

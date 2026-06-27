@@ -1,7 +1,6 @@
 ---
 title: "City of Tigard Oregon Solid Waste Rates Review"
-subtitle: "2022 - 2024"
-number: 29
+year: 2024
 image: /images/tigard-or.jpg
 image-alt: "Image of Tigard, Oregon"
 categories: ["Rate Setting"]

@@ -1,7 +1,6 @@
 ---
 title: "City of Mount Vernon, Washington Collection Rate Study"
-subtitle: "2019, 2021, 2025"
-number: 34
+year: 2025
 image: /images/mt_vernon_WA.jpg
 image-alt: "Image of Mt. Vernon, Washington"
 categories: ["Rate Setting"]

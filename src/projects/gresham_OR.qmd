@@ -1,6 +1,6 @@
 ---
 title: "City of Gresham, Oregon"
-number: 32
+year: 1
 image: /images/gresham_OR.jpg
 image-alt: "Image of Gresham, Oregon"
 categories: ["Rate Setting"]

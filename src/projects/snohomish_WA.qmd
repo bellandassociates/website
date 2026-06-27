@@ -1,7 +1,6 @@
 ---
 title: "Snohomish County, Washington MRF"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/snohomish_WA.jpg
 image-alt: "Image of Snohomish County, Washington"
 categories: ["MRF"]

@@ -1,7 +1,6 @@
 ---
 title: "City of Sandy, Utah Transfer Systems Business Plan"
-subtitle: "2010, 2018"
-number: 13
+year: 2018
 image: /images/sandy_UT.jpg
 image-alt: "Image of Sandy, Utah"
 categories: ["Transfer/MRF/Transport"]

@@ -1,7 +1,6 @@
 ---
 title: "Mesa and Tucson, Arizona Alternative Fuels Study"
-subtitle: "-"
-number: 4
+year: 1
 image: /images/mesa_AZ.jpg
 image-alt: "Image of Mesa, Arizona"
 categories: ["Transfer/MRF/Transport"]

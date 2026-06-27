@@ -1,7 +1,6 @@
 ---
 title: "City of Hoboken, New Jersey Zero Waste Management Plan"
-subtitle: "2022-2024"
-number: 25
+year: 2024
 image: /images/hoboken_NJ.jpg
 image-alt: "Image of Hoboken, New Jersey"
 categories: ["Transfer/MRF/Transport"]

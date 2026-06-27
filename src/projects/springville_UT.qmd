@@ -1,7 +1,6 @@
 ---
 title: "Springville, Utah Solid Waste Services Study and Operational Assessment Client"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/clackamas.jpg
 image-alt: "Image of Clackamas"
 categories: []

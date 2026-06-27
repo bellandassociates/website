@@ -1,7 +1,6 @@
 ---
 title: "Tillamook County, Oregon"
-subtitle: "2000"
-number: 0
+year: 2012
 image: /images/tillamook_OR.jpg
 image-alt: "Image of Tillamook, Oregon"
 categories: ["Integrated Solid Waste Planning"]

@@ -1,6 +1,6 @@
 ---
 title: "City of Yakima, Washington"
-number: 37
+year: 2025
 image: /images/yakima_WA.jpg
 image-alt: "Image of Yakima, Washington"
 categories: ["Rate Setting", "Integrated Solid Waste Planning",

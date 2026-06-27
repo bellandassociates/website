@@ -1,7 +1,6 @@
 ---
 title: "Park County, Montana Waste Planning"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/park_MT.jpg
 image-alt: "Image of Park County, Montana"
 categories: ["Integrated Solid Waste Planning"]

@@ -1,7 +1,6 @@
 ---
 title: "City of Richland"
-subtitle: "2009"
-number: 0
+year: 2010
 image: /images/richland_OR.jpg
 image-alt: "Image of Richland, Oregon"
 categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]

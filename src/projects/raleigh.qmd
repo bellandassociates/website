@@ -1,7 +1,6 @@
 ---
 title: "Raleigh, North Carolina Rate Setting"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/raleigh_NC.jpg
 image-alt: "Image of Raleigh, North Carolina"
 categories: ["Rate Setting"]

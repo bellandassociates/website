@@ -1,7 +1,6 @@
 ---
 title: ""
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/clackamas.jpg
 image-alt: ""
 categories: ["MRF"]

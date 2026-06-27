@@ -1,7 +1,6 @@
 ---
 title: "Multnomah County, Oregon Solid Waste Regulatory Review"
-subtitle: "-"
-number: 3
+year: 1
 image: /images/multnomah_OR.jpg
 image-alt: "Image of Multnomah County, Oregon"
 categories: ["Transfer/MRF/Transport"]

@@ -1,7 +1,6 @@
 ---
 title: "Wilsonville Oregon Solid Waste Rates Review"
-subtitle: "December 2025"
-number: 36
+year: 2025
 image: /images/wilsonville-or.jpg
 image-alt: "Image of Wilsonville, Oregon"
 categories: ["Rate Setting"]

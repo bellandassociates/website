@@ -1,7 +1,6 @@
 ---
 title: "City of Hillsboro, Oregon"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/hilsboro_OR.jpg
 image-alt: "Image of Hilsboro, Oregon"
 categories: ["Rate Setting"]

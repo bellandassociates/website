@@ -1,7 +1,6 @@
 ---
 title: "Gillette, Wyoming Rate Setting"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/gillette_WY.jpg
 image-alt: "Image of Gillette, Wyoming"
 categories: ["Rate Setting"]

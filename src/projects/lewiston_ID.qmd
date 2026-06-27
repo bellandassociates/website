@@ -1,7 +1,6 @@
 ---
 title: "City of Lewiston, Idaho Service Procurement"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/lewiston_ID.png
 image-alt: "Image of Lewiston, Idaho"
 categories: ["Service Procurement"]

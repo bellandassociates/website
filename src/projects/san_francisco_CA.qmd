@@ -1,7 +1,6 @@
 ---
 title: "San Francisco Bay Area Wasteshed Study"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/san_francisco_CA.jpg
 image-alt: "Image of San Francisco, California"
 categories: ["Landfill/Disposal"]

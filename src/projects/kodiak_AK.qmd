@@ -1,7 +1,6 @@
 ---
 title: "Kodiak Island Borough, Alaska Solid Waste Management Plan"
-subtitle: "2008"
-number: 0
+year: 2010
 image: /images/kodiak_AK.jpg
 image-alt: "Image of Kodiak, Alaska"
 categories: ["Integrated Solid Waste Planning", "Service Procurement"]

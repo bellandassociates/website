@@ -1,7 +1,6 @@
 ---
 title: "Private Client in Washington HB-1799 Compost Feasibility Study"
-subtitle: "2024"
-number: 28
+year: 2024
 image: /images/skagit-wa.jpg
 image-alt: "Image of Skagit County, Washington"
 categories: ["Transfer/MRF/Transport"]

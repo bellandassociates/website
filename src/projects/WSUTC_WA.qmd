@@ -1,7 +1,7 @@
 ---
 title: "Washington State Utility and Transportation Commission Solid Waste Rate
 Setting Methodology Rate Model Review"
-number: 24
+year: 1
 image: /images/washington_state.jpg
 image-alt: "Image showing map of Washington state"
 categories: ["Rate Setting"]

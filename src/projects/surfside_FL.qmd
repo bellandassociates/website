@@ -1,7 +1,6 @@
 ---
 title: "Town of Surfside, Florida Rate Setting"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/surfside_FL.jpg
 image-alt: "Image of surfside, Florida"
 categories: ["Rate Setting"]

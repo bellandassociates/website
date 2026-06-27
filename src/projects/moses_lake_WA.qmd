@@ -1,7 +1,6 @@
 ---
 title: "City of Moses Lake, Washington Waste Collection Cost of Service Study"
-subtitle: "2016"
-number: 10
+year: 2016
 image: /images/moses_lake_WA.jpg
 image-alt: "Image of city of Moses Lake, Washington"
 categories: ["Rate Setting"]

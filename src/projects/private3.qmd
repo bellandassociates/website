@@ -1,7 +1,6 @@
 ---
 title: "Private Client in El Paso, Texas"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/el_paso_TX.jpg
 image-alt: "Image of El Paso, Texas"
 categories: ["Rate Setting"]

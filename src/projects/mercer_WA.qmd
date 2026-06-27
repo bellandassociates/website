@@ -1,7 +1,6 @@
 ---
 title: "Mercer Island, Washington Rate Setting"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/mercer_WA.jpg
 image-alt: "Image of Mercer Island, Washington"
 categories: ["Rate Setting"]

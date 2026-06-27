@@ -1,7 +1,6 @@
 ---
 title: "Kitsap County, Washington Waste Planning"
-subtitle: "2000"
-number: 0
+year: 1
 image: /images/kitsap_WA.jpg
 image-alt: "Image of Kitsap County, Washington"
 categories: ["Integrated Solid Waste Planning"]

@@ -1,7 +1,6 @@
 ---
 title: "Port of Longview, Washington Alternative Fuels Study"
-subtitle: "2020"
-number: 16
+year: 1
 image: /images/port_longview_WA.jpg
 image-alt: "Image of Port Longview, Washington"
 categories: ["Transfer/MRF/Transport"]

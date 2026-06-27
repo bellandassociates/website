@@ -1,7 +1,6 @@
 ---
 title: "Indianapolis, Indiana Waste Collection Cost of Service Study"
-subtitle: "2021"
-number: 17
+year: 2021
 image: /images/indianapolis_IN.jpg
 image-alt: "Image of Indianapolis, Indiana"
 categories: ["Rate Setting"]
@@ -9,6 +8,7 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
 Mr. Bell was subcontracted to complete a cost of service study for the City of
 Indianapolis Solid Waste Services Division (Division). The purpose of the study
 was to understand the specific costs of the various services provided by the
