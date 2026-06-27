@@ -1,8 +1,8 @@
 ---
 title: "City of Green River, Wyoming Solid Waste Management Plan"
 year: 2015
-image: /images/clackamas.jpg
-image-alt: "Image of clackamas county"
+image: /images/green_river_WY.jpg
+image-alt: "Image of Green River, Wyoming"
 categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
@@ -17,4 +17,5 @@ landfill by 2015 and direct haul to the Rock Springs regional landfill. Other
 recommendations included considering a regional material recovery facility to
 serve the south eastern Wyoming jurisdictions. 
 
+[Thumbnail Image by User: Magicpiano - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=62631822)
 :::
