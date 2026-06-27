@@ -1,6 +1,8 @@
 flask
+folium
 gunicorn
 jupyter
+osmnx
 pandas
 plotly
 shiny

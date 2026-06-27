@@ -19,6 +19,8 @@ website:
         text: Services
       - href: portfolio.qmd
         text: Portfolio
+      - href: map.qmd
+        text: Project Map
       - href: contact.qmd
         text: Contact Us
   page-navigation: true

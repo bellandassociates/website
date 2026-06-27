@@ -1,0 +1,47 @@
+---
+title: "Bell & Associates"
+subtitle: "We know the box"
+title-block-banner: images/banner.jpg
+format:
+    html:
+        toc: false
+---
+
+Project map
+
+```{python}
+#| echo: false
+#| warning: false
+#| message: false
+
+import folium
+import osmnx as ox
+import pandas as pd
+
+states = pd.read_csv("assets/states.csv")
+df = pd.read_csv("assets/map_data.csv")
+df = df.drop_duplicates(subset=["Street", "City"])
+m = folium.Map(location=[40,-108], zoom_start=3)
+
+for _, row in df.iterrows():
+    state = states.set_index("Abbreviation").at[row["State"], "State"]
+    place = f"{row['City']} {state}"
+    try:
+        gdf = ox.geocode_to_gdf(place)
+        poly = gdf.geometry.iloc[0]
+        center = [poly.centroid.y, poly.centroid.x]
+        folium.GeoJson(
+            data=poly.__geo_interface__,
+            tooltip=place,
+            style_function=lambda x: {
+                "color": "red",
+                "weight": 3,
+                "fillOpacity": 0.15
+            }
+        ).add_to(m)
+    except TypeError:
+        gdf = ox.geocode(place)
+    folium.Marker(center, tooltip=place).add_to(m)
+
+m
+```
