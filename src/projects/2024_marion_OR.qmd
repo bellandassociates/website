@@ -1,6 +1,6 @@
 ---
 title: "Marion County, Oregon Solid Waste Rates Review"
-subtitle: "April 2024"
+subtitle: "2019-2025"
 number: 27
 image: /images/marion-or.jpg
 image-alt: "Image of Marion County, Oregon"
@@ -9,5 +9,18 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+Marion County regulates eight companies that provide waste and recycling to the
+unincorporated areas of the county. The process requires franchised companies
+to submit annual detailed cost reports, which are reviewed, adjusted, and
+compiled by collection areas—urban or rural. Waste was disposed of at the
+Waste-to-Energy facility until January 2025; however, changes to Oregon laws
+made incineration too expensive, requiring Covanta to cancel its contract with
+Marion County. 
+
+The shutdown of the Covanta facility requires the County to undergo a transfer
+facility planning process to determine the best long-term disposal option(s).
+Mr. Bell is currently a subcontractor on this planning project.
+
+
 [Meeting agenda](https://www.co.marion.or.us/BOC/Documents/2015BoardCalendars/PW_Pub%20Hear_Solid%20Waste%20Collection%20Rates.pdf)
 :::
