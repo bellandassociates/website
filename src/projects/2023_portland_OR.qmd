@@ -4,7 +4,7 @@ subtitle: "2008, 2012, 2017, 2023"
 number: 22
 image: /images/portland_OR.jpg
 image-alt: "Image of Portland, Oregon"
-categories: ["Transfer/MRF/Transport", "Service Procurement"]
+categories: ["Transfer/MRF/Transport", "Service Procurement", "Education/Training"]
 ---
 {{< include _return-to-pf.qmd >}}
 
@@ -30,7 +30,32 @@ asset replacement.
 
 # 2008 Transfer Station Repair & Replacement Study
 
-TODO: Contents
+# Solid Waste Rate Seminar
+
+Bell & Associates was contracted to conduct an in-house solid waste rate
+seminar for Metro staff. The purpose of this project was to improve Metro's
+institutional knowledge of the region's local solid waste rate-setting
+practices so that Metro staff can conduct more robust analyses of ratepayer
+impacts. 
+
+# System Oversight
+
+Bell & Associates reviewed the financial and operational data of secondary
+solid waste handlers (transfer stations and landfills) licensed by Metro prior
+to 2003. The objective of the engagements was to provide oversight and ensure
+the accurate reporting of information and collection of fees to Metro. 
+
+# Residential Food Collection Program Analysis
+
+Bell & Associates in conjunction with Applied Compost Inc. worked with local
+governments and composting facilities to determine the impact of a residential
+food collection program. If a residential organics system were implemented, the
+yard debris and organics collected together would most likely be sent to the
+one fully-permitted and operational organic waste composting facility located
+within the Portland metropolitan region. The study reported on the economic and
+structural impact to existing residential collections systems, composting
+facilities, compost markets, transportation systems, and the ancillary effects
+(job losses or job creation, lost business, lower tax base, etc.).
 
 [By Cacophony - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=2335737)
 

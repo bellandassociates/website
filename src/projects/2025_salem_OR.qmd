@@ -9,7 +9,16 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-TODO: Contents
+Mr. Bell has assisted the City of Salem with the review of collection rates in
+2003 and 2006 through 2009. Collection services are provided by six franchised
+collection companies that provide residential, commercial, and drop box
+service to the City's 35,000 residential and 2,500 commercial customers. In
+2003, Mr. Bell established a uniform report using input of the six franchised
+collection companies and City staff. The standardized format of the report was
+necessary to gather the information needed to compare the results of the City's
+six hauling companies. Once the companies completed and submitted the report,
+Mr. Bell completed a site audit for each hauler to ensure the accuracy of all
+reports.
 
 [By M.O. Stevens - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4236863)
 :::

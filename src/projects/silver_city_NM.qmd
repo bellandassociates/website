@@ -4,7 +4,7 @@ subtitle: "2000"
 number: 0
 image: /images/silver_city_NM.jpg
 image-alt: "Image of Silver City, New Mexico"
-categories: []
+categories: ["Integrated Solid Waste Planning"]
 ---
 {{< include _return-to-pf.qmd >}}
 
@@ -12,7 +12,15 @@ categories: []
 
 # Solid Waste System Analysis
 
+Mr. Bell documented the disadvantages and inefficiencies of the Town's
+labor-intensive refuse collection program. A transition to a fully automated
+approach for picking up both residential and commercial trash was recommended
+with standardized containers provided to residences and businesses.
+
 # Program Implementation
+
+Mr. Bell assisted with the implementation of the plan including equipment
+purchases, route audits, equipment distribution, and community outreach.  
 
 TODO: Contents
 

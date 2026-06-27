@@ -8,7 +8,16 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-TODO: Contents
+Bell & Associates worked with City staff, franchised haulers, and recycling
+processors to implement a fully automated roller cart collection system for the
+neighboring Cities’ 28,000 combined residential customers. The dual-stream,
+co-mingle system allows the mixing of all materials with the exception of glass
+and motor oil. The overall objective was to keep the implementation and
+collection system cost low by increasing collection productivity and collected
+materials, and by standardizing the entire collection fleet (solid waste,
+recycling, and yard debris). The cart program is expected to collect 10,350
+tons of recoverable material a year, or 750 pounds per residential customer.
+The rate impact was \$0 in the City of Beaverton.
 
 [By Ian Poellet - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=43210574)
 :::

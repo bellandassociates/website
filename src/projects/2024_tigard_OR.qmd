@@ -10,6 +10,16 @@ categories: ["Rate Setting"]
 
 ::: {.article}
 
+Bell & Associates worked with City staff, franchised haulers, and recycling
+processors to implement a fully automated roller cart collection system for the
+neighboring Cities’ 28,000 combined residential customers. The dual-stream,
+co-mingle system allows the mixing of all materials with the exception of glass
+and motor oil. The overall objective was to keep the implementation and
+collection system cost low by increasing collection productivity and collected
+materials, and by standardizing the entire collection fleet (solid waste,
+recycling, and yard debris). The cart program is expected to collect 10,350
+tons of recoverable material a year, or 750 pounds per residential customer. The
+rate impact was \$0.70 a month.
 # 2025
 
 [Report](https://public.destinyhosted.com/tigardocs/2025/CCBSNS/20250624_2514/5848_Presentation_2.pdf)

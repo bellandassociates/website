@@ -1,6 +1,6 @@
 ---
 title: "City of Richland"
-subtitle: "2000"
+subtitle: "2009"
 number: 0
 image: /images/richland_OR.jpg
 image-alt: "Image of Richland, Oregon"
@@ -11,6 +11,20 @@ categories: ["Rate Setting", "Landfill/Disposal", "Service Procurement"]
 ::: {.article}
 
 # Solid Waste System Analysis and Rate Setting
+
+Bell & Associates has been assisting the City of Richland since 2009 with the
+cost analysis and rate setting for various diversion programs outlined in their
+recently adopted solid waste management program. Mr. Bell recently assisted the
+City with the costs analysis of disposal options. The alternatives reviewed
+were the City’s owned landfill (Horn Rapids) compared to a transfer and
+long-haul option at the three regional landfills located in the Columbia River
+Basin. 
+
+In 2010, Mr. Bell drafted the City's RFP for the processing of residential
+recyclable materials and completed a cost analysis of a compost facility
+located at the landfill. Collection rates were established for the rollout of
+the residential yard debris and recycling programs as well as updated fees for
+disposal and self-haul at the City’s Horn Rapids Landfill.
 
 # 2009 Compost Facility Cost of Service
 

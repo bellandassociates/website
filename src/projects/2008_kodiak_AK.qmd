@@ -9,6 +9,21 @@ categories: ["Integrated Solid Waste Planning", "Service Procurement"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
+
+# 2008-2010 Solid Waste Study and Collection Service Procurement
+
+Bell & Associates was contracted by Kodiak Island Borough to evaluate the
+existing solid waste collection and disposal methods to determine the most
+comprehensive, environmentally sound, and cost-effective method of operation
+for the Borough. A solid waste management plan was completed in July 2008 that
+provided the Borough with three disposal system alternatives: landfill,
+incineration, or barging to a distant landfill. The plan was officially adopted
+by the Borough Assembly in September 2008, which recommended a fully carted
+collection system, a lined landfill, and an expanded recycling program. The
+project's second phase is assisting the Borough with procuring collection and
+recycling services based on the direction of the solid waste plan. Proposals
+were submitted in July 2009, and contract negotiations were completed in 2010.
+
 [Solid Waste Management Plan](https://www.kodiakak.us/DocumentCenter/View/12647/Exhibit-A-August-2008-Kodiak-Island-Borough-Final-Solid-Waste-Management-Plan-Completed-by-Bell--Associates-)
 
 [By James Brooks, CC BY 2.0](https://commons.wikimedia.org/w/index.php?curid=112970641)

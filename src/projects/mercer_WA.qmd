@@ -9,7 +9,11 @@ categories: ["Rate Setting"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-TODO: Contents
+Bell & Associates  assisted the City of Mercer Island during the contract
+negotiations with Allied Waste of Bellevue. Part of the process was reviewing
+the additional costs associated with program changes and service enhancements
+and the impact on collection rates over the initial ten year term of the
+contract.
 
 [By Dllu - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=42654839)
 :::
