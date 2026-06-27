@@ -9,7 +9,12 @@ categories: ["Rate Setting", "Transfer/MRF/Transport"]
 {{< include _return-to-pf.qmd >}}
 
 ::: {.article}
-TODO: Contents
+Mr. Bell assisted Oregon DEQ with cost modeling for the state's recycling
+infrastructure and program costs. Data points from collection and processing
+operations throughout Oregon were analyzed and aggregated to estimate the cost
+and operational impacts from alternative system scenarios. DEQ utilized the
+project's findings to assist with the drafting of Senate Bill 582, which became
+Oregon's extended producer responsibility law.
 
 [Report](https://www.oregon.gov/deq/recycling/Documents/RMAModeling.pdf)
 :::
