@@ -6,7 +6,7 @@ listing:
     type: grid
     grid-columns: 3
     fields: [image, title]
-    sort: number desc
+    sort: year desc
     categories: true
 format:
     html:
