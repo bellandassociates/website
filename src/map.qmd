@@ -28,9 +28,11 @@ m = folium.Map(location=[40,-108], zoom_start=3)
 
 for _, row in df.iterrows():
     state = states.set_index("Abbreviation").at[row["State"], "State"]
-    place = f"{row['City']} {state}"
+    searchstring = f"{row['City']} {state}"
+    place = f"{row['City']}, {row['State']}"
+    url = f"projects/{row['City'].lower().replace(' ','_').replace('.','')}_{row['State']}.html"
     try:
-        gdf = ox.geocode_to_gdf(place)
+        gdf = ox.geocode_to_gdf(searchstring)
         poly = gdf.geometry.iloc[0]
         center = [poly.centroid.y, poly.centroid.x]
         folium.GeoJson(
@@ -44,11 +46,15 @@ for _, row in df.iterrows():
             }
         ).add_to(m)
     except TypeError:
-        gdf = ox.geocode(place)
+        gdf = ox.geocode(searchstring)
     folium.Marker(
         center,
         tooltip=place,
         color="red",
+        popup=folium.Popup(
+            f'<a href={url} target="_blank">{place}</a>',
+            max_width=200
+        )
     ).add_to(m)
 #radius=3,
 #fill=True,
