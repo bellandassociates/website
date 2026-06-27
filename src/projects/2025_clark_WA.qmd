@@ -1,10 +1,10 @@
 ---
 title: "Clark County, Washington"
-subtitle: "2019-2021"
+subtitle: "2019-2025"
 number: 7
 image: /images/clark_WA.jpg
 image-alt: "Image of Clark County, Washington"
-categories: ["MRF"]
+categories: ["MRF", "Transfer"]
 ---
 {{< include _return-to-pf.qmd >}}
 
@@ -21,7 +21,17 @@ profit center, which significantly increased the complexity of the project. In
 2019, the system disposed of over 435,000 tons of solid waste and processed
 over 60,000 tons of recyclable materials.
 
-Reference: Mike Davis
+The financial plan estimated the transfer system and facility costs over 20
+years. The work determined that approximately $50 million in rate fees could be
+used for future infrastructure expenses and was critical during contract
+negotiations with Waste Connections. 
+
+Bell & Associates has assisted the City of Vancouver and Clark County in
+calculating the commingled recycling processing fee charged by the Vancouver
+MRF owned and operated by Waste Connections. The annual review requires
+analyzing the detailed costs and operational results of the previous year to
+establish the rates to be charged to residential and commercial customers in
+the upcoming year.
 
 # 2021 MRF Cost of Service Study
 
